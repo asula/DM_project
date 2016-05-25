@@ -1,0 +1,40 @@
+1	Can't Stop the Music	1980
+11	Mommie Dearest	1981
+16	Inchon	1982
+21	The Lonely Lady	1983
+26	Bolero	1984
+31	Rambo: First Blood Part II	1985
+36	Howard the Duck	1986
+37	Under the Cherry Moon	1986
+41	Leonard Part 6	1987
+43	The Revenge	Jaws
+46	Cocktail	1988
+51	Star Trek V: The Final Frontier	1989
+56	The Adventures of Ford Fairlane	1990
+57	Ghosts Can't Do It	1990
+61	Hudson Hawk	1991
+66	Shining Through	1992
+71	Indecent Proposal	1993
+76	Color of Night	1994
+81	Showgirls	1995
+86	Striptease	1996
+91	The Postman	1997
+96	An Alan Smithee Film: Burn Hollywood Burn	1998
+101	Wild Wild West	1999
+106	Battlefield Earth	2000
+111	Freddy Got Fingered	2001
+116	Swept Away	2002
+121	Gigli	2003
+126	Catwoman	2004
+131	Dirty Love	2005
+136	Basic Instinct 2	2006
+141	I Know Who Killed Me	2007
+146	The Love Guru	2008
+151	Transformers: Revenge of the Fallen	2009
+156	The Last Airbender	2010
+161	Jack and Jill	2011
+166	The Twilight Saga: Breaking Dawn – Part 2	2012
+171	Movie 43	2013
+176	Saving Christmas	2014
+181	Fantastic Four	2015
+182	Fifty Shades of Grey	2015

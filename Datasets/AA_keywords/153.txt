@@ -1,0 +1,622 @@
+veteran
+Is this relevant?
+pity
+Is this relevant?
+love
+Is this relevant?
+marriage
+Is this relevant?
+banker
+Is this relevant?
+bombardier
+Is this relevant?
+children
+Is this relevant?
+pharmacy
+Is this relevant?
+falling in love
+Is this relevant?
+fire
+Is this relevant?
+soda jerk
+Is this relevant?
+post war
+Is this relevant?
+nightgown
+Is this relevant?
+box office hit
+Is this relevant?
+wanting a divorce
+Is this relevant?
+joblessness
+Is this relevant?
+fictional city
+Is this relevant?
+recurring dream
+Is this relevant?
+artificial hand
+Is this relevant?
+prosthetic hand
+Is this relevant?
+sleeping on a couch
+Is this relevant?
+first person title
+Is this relevant?
+1940s
+Is this relevant?
+door buzzer
+Is this relevant?
+salute
+Is this relevant?
+street life
+Is this relevant?
+taxi driver
+Is this relevant?
+reference to detroit michigan
+Is this relevant?
+reference to cleveland ohio
+Is this relevant?
+war effort
+Is this relevant?
+source music
+Is this relevant?
+symphonic music score
+Is this relevant?
+leitmotif
+Is this relevant?
+orchestral music score
+Is this relevant?
+character says i love you
+Is this relevant?
+masculinity
+Is this relevant?
+manhood
+Is this relevant?
+world war two
+Is this relevant?
+marriage proposal
+Is this relevant?
+wedding ceremony
+Is this relevant?
+father of the bride
+Is this relevant?
+flower girl
+Is this relevant?
+minister
+Is this relevant?
+here comes the bride
+Is this relevant?
+junkman
+Is this relevant?
+pearl necklace
+Is this relevant?
+punch the drink
+Is this relevant?
+toast
+Is this relevant?
+wedding ring
+Is this relevant?
+best man
+Is this relevant?
+wedding present
+Is this relevant?
+bride and groom
+Is this relevant?
+asking for a job
+Is this relevant?
+audio flashback
+Is this relevant?
+flight jacket
+Is this relevant?
+eyeglasses
+Is this relevant?
+heroism
+Is this relevant?
+war hero
+Is this relevant?
+distinguished flying cross
+Is this relevant?
+abandoned airplane
+Is this relevant?
+military citation
+Is this relevant?
+packing
+Is this relevant?
+tearing up a photograph
+Is this relevant?
+paris france
+Is this relevant?
+job seeking
+Is this relevant?
+unemployment office
+Is this relevant?
+unemployment insurance
+Is this relevant?
+elbow
+Is this relevant?
+harness
+Is this relevant?
+courage
+Is this relevant?
+freak
+Is this relevant?
+athlete
+Is this relevant?
+glass of milk
+Is this relevant?
+american football player
+Is this relevant?
+basketball player
+Is this relevant?
+fired from the job
+Is this relevant?
+american flag
+Is this relevant?
+employer employee relationship
+Is this relevant?
+destruction of property
+Is this relevant?
+fight
+Is this relevant?
+politics
+Is this relevant?
+german
+Is this relevant?
+broken heart
+Is this relevant?
+ice cream sundae
+Is this relevant?
+kitchen
+Is this relevant?
+piano lesson
+Is this relevant?
+pay phone
+Is this relevant?
+chopsticks the song
+Is this relevant?
+love triangle
+Is this relevant?
+hate
+Is this relevant?
+humiliation
+Is this relevant?
+bromo seltzer
+Is this relevant?
+belch
+Is this relevant?
+eyebrow pencil
+Is this relevant?
+lipstick
+Is this relevant?
+drugstore cowboy
+Is this relevant?
+powder puff
+Is this relevant?
+compact
+Is this relevant?
+ladies room
+Is this relevant?
+flash camera
+Is this relevant?
+photographer
+Is this relevant?
+hit in the face with someone's elbow
+Is this relevant?
+storytelling
+Is this relevant?
+loan and trust company
+Is this relevant?
+counting drinks
+Is this relevant?
+fur coat
+Is this relevant?
+fork
+Is this relevant?
+applause
+Is this relevant?
+corsage
+Is this relevant?
+credit rating
+Is this relevant?
+speech
+Is this relevant?
+newspaper
+Is this relevant?
+double date
+Is this relevant?
+ironing
+Is this relevant?
+convertible
+Is this relevant?
+italian restaurant
+Is this relevant?
+apple pie
+Is this relevant?
+cafe
+Is this relevant?
+cosmetics
+Is this relevant?
+salesclerk
+Is this relevant?
+boy
+Is this relevant?
+mechanical toy
+Is this relevant?
+toy
+Is this relevant?
+tomato farmer
+Is this relevant?
+farming
+Is this relevant?
+reference to uncle sam
+Is this relevant?
+farmer
+Is this relevant?
+collateral
+Is this relevant?
+buying a farm
+Is this relevant?
+g.i. loan
+Is this relevant?
+false eyelashes
+Is this relevant?
+military officer
+Is this relevant?
+farm
+Is this relevant?
+self reliance
+Is this relevant?
+breaking a glass window
+Is this relevant?
+rifle
+Is this relevant?
+tricycle
+Is this relevant?
+wood shed
+Is this relevant?
+boy next door
+Is this relevant?
+girl next door
+Is this relevant?
+neighbor
+Is this relevant?
+dusseldorf germany
+Is this relevant?
+b 17 bomber
+Is this relevant?
+scarf
+Is this relevant?
+perfume
+Is this relevant?
+briefcase
+Is this relevant?
+bank officer
+Is this relevant?
+cuban cigar
+Is this relevant?
+trust company
+Is this relevant?
+bomb
+Is this relevant?
+bomber plane
+Is this relevant?
+store manager
+Is this relevant?
+military ribbon
+Is this relevant?
+pharmacist
+Is this relevant?
+soda fountain
+Is this relevant?
+lunch counter
+Is this relevant?
+sitting on someone's lap
+Is this relevant?
+japanese
+Is this relevant?
+matches
+Is this relevant?
+coffee
+Is this relevant?
+eating
+Is this relevant?
+food
+Is this relevant?
+bathrobe
+Is this relevant?
+buzzer
+Is this relevant?
+marital problem
+Is this relevant?
+dream
+Is this relevant?
+flowers
+Is this relevant?
+breakfast tray
+Is this relevant?
+red cross
+Is this relevant?
+shower with clothes on
+Is this relevant?
+shower
+Is this relevant?
+photograph
+Is this relevant?
+mirror
+Is this relevant?
+venetian blinds
+Is this relevant?
+shoes
+Is this relevant?
+hospital worker
+Is this relevant?
+hospital
+Is this relevant?
+brother sister relationship
+Is this relevant?
+twenty something
+Is this relevant?
+teenage boy
+Is this relevant?
+breakfast
+Is this relevant?
+bathroom
+Is this relevant?
+hangover
+Is this relevant?
+canopy bed
+Is this relevant?
+walking on tiptoes
+Is this relevant?
+closet
+Is this relevant?
+money
+Is this relevant?
+plane crash
+Is this relevant?
+talking in sleep
+Is this relevant?
+sleeplessness
+Is this relevant?
+sleeping on a sofa
+Is this relevant?
+bedroom
+Is this relevant?
+putting someone to bed
+Is this relevant?
+dressing someone
+Is this relevant?
+dog tags
+Is this relevant?
+passing out
+Is this relevant?
+bed
+Is this relevant?
+hitting one's head on a car door
+Is this relevant?
+pajamas
+Is this relevant?
+undressing
+Is this relevant?
+handshake
+Is this relevant?
+souvenir
+Is this relevant?
+pipe cleaning
+Is this relevant?
+leyte philippines
+Is this relevant?
+philippines
+Is this relevant?
+waiter
+Is this relevant?
+whiskey
+Is this relevant?
+beer
+Is this relevant?
+bartender
+Is this relevant?
+captain
+Is this relevant?
+apprehension
+Is this relevant?
+patronizing
+Is this relevant?
+singing
+Is this relevant?
+singer
+Is this relevant?
+reference to douglas macarthur
+Is this relevant?
+pipe smoking
+Is this relevant?
+cigar smoking
+Is this relevant?
+drummer
+Is this relevant?
+band
+Is this relevant?
+dancer
+Is this relevant?
+celebration
+Is this relevant?
+military
+Is this relevant?
+readjusting to civilian life
+Is this relevant?
+sleeping
+Is this relevant?
+reference to stars and stripes newspaper
+Is this relevant?
+maid
+Is this relevant?
+atomic energy
+Is this relevant?
+hiroshima japan
+Is this relevant?
+japanese flag
+Is this relevant?
+samurai sword
+Is this relevant?
+war souvenir
+Is this relevant?
+apartment
+Is this relevant?
+telephone call
+Is this relevant?
+elevator
+Is this relevant?
+pianist
+Is this relevant?
+tears
+Is this relevant?
+crying
+Is this relevant?
+duffel bag
+Is this relevant?
+kiss
+Is this relevant?
+boyfriend girlfriend relationship
+Is this relevant?
+girl
+Is this relevant?
+u.s. soldier
+Is this relevant?
+taxi
+Is this relevant?
+reunion
+Is this relevant?
+uncle nephew relationship
+Is this relevant?
+americana
+Is this relevant?
+baseball stadium
+Is this relevant?
+airplane graveyard
+Is this relevant?
+football field
+Is this relevant?
+golf course
+Is this relevant?
+rehabilitation
+Is this relevant?
+unfaithfulness
+Is this relevant?
+cigarette smoking
+Is this relevant?
+drink
+Is this relevant?
+sergeant
+Is this relevant?
+adultery
+Is this relevant?
+hook for hand
+Is this relevant?
+returning home
+Is this relevant?
+u.s. sailor
+Is this relevant?
+u.s. navy
+Is this relevant?
+u.s. army
+Is this relevant?
+u.s. air force
+Is this relevant?
+drinking
+Is this relevant?
+memory
+Is this relevant?
+unfaithful wife
+Is this relevant?
+pilot
+Is this relevant?
+mother son relationship
+Is this relevant?
+mother daughter relationship
+Is this relevant?
+husband wife relationship
+Is this relevant?
+homefront
+Is this relevant?
+father son relationship
+Is this relevant?
+father daughter relationship
+Is this relevant?
+family relationships
+Is this relevant?
+drunkenness
+Is this relevant?
+three on a match
+Is this relevant?
+conversation with someone playing a piano
+Is this relevant?
+deep focus
+Is this relevant?
+wounded soldier
+Is this relevant?
+blockbuster
+Is this relevant?
+amputee
+Is this relevant?
+handicapped actor
+Is this relevant?
+loan
+Is this relevant?
+extramarital affair
+Is this relevant?
+airport
+Is this relevant?
+piano
+Is this relevant?
+banquet
+Is this relevant?
+restaurant
+Is this relevant?
+job interview
+Is this relevant?
+alcoholism
+Is this relevant?
+airplane
+Is this relevant?
+nightmare
+Is this relevant?
+class differences
+Is this relevant?
+nightclub
+Is this relevant?
+prefabricated house
+Is this relevant?
+infidelity
+Is this relevant?
+unemployment
+Is this relevant?
+target practice
+Is this relevant?
+disability
+Is this relevant?
+famous score
+Is this relevant?
+bank
+Is this relevant?
+wedding
+Is this relevant?
+drugstore
+Is this relevant?
+divorce
+Is this relevant?
+homecoming
+Is this relevant?
+song
+Is this relevant?
+stepmother stepson relationship
+Is this relevant?
+dancing
+Is this relevant?
+bar
+Is this relevant?
+window smashing
+Is this relevant?
+world war two veteran
+Is this relevant?
+based on novel
+Is this relevant?

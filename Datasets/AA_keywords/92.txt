@@ -1,0 +1,336 @@
+house
+Is this relevant?
+stenographer
+Is this relevant?
+love
+Is this relevant?
+eccentric
+Is this relevant?
+friend
+Is this relevant?
+monopoly
+Is this relevant?
+rich snob
+Is this relevant?
+tycoon
+Is this relevant?
+secretary
+Is this relevant?
+free spirit
+Is this relevant?
+moving out
+Is this relevant?
+caught in the rain
+Is this relevant?
+caged bird
+Is this relevant?
+man wearing a top hat
+Is this relevant?
+mob of reporters
+Is this relevant?
+night court
+Is this relevant?
+playing harmonica
+Is this relevant?
+locked in jail
+Is this relevant?
+broken glasses
+Is this relevant?
+man wearing a tuxedo
+Is this relevant?
+woman screaming
+Is this relevant?
+playing violin
+Is this relevant?
+ringing a bell
+Is this relevant?
+tap dancing
+Is this relevant?
+playing accordion
+Is this relevant?
+rose
+Is this relevant?
+woman wearing a veil
+Is this relevant?
+girl wearing a miniskirt
+Is this relevant?
+reference to abraham lincoln
+Is this relevant?
+reference to james monroe
+Is this relevant?
+reference to thomas jefferson
+Is this relevant?
+reference to george washington
+Is this relevant?
+reference to thomas edison
+Is this relevant?
+reference to mark twain
+Is this relevant?
+corporate merger
+Is this relevant?
+sky rocket
+Is this relevant?
+home sweet home sign
+Is this relevant?
+reference to frederic chopin
+Is this relevant?
+reference to robert e. lee
+Is this relevant?
+reference to ulysses s. grant
+Is this relevant?
+woman jumping into a man's arms
+Is this relevant?
+setting a table
+Is this relevant?
+income tax
+Is this relevant?
+quitting job
+Is this relevant?
+eye twitch
+Is this relevant?
+wind up toy
+Is this relevant?
+string of firecrackers
+Is this relevant?
+pipe smoking
+Is this relevant?
+real estate agent
+Is this relevant?
+eviction notice
+Is this relevant?
+chauffeured limousine
+Is this relevant?
+box office hit
+Is this relevant?
+stamp collection
+Is this relevant?
+abraham lincoln quotation
+Is this relevant?
+woman dancing
+Is this relevant?
+playing a xylophone
+Is this relevant?
+firecracker
+Is this relevant?
+wood carving
+Is this relevant?
+live chicken
+Is this relevant?
+man using crutches
+Is this relevant?
+claim in title
+Is this relevant?
+new york city
+Is this relevant?
+manhattan new york city
+Is this relevant?
+xylophone
+Is this relevant?
+workshop
+Is this relevant?
+white rose
+Is this relevant?
+whistling
+Is this relevant?
+wall street manhattan new york city
+Is this relevant?
+twitch
+Is this relevant?
+tuxedo
+Is this relevant?
+trial
+Is this relevant?
+toast
+Is this relevant?
+ticker tape
+Is this relevant?
+taxes
+Is this relevant?
+sprained ankle
+Is this relevant?
+cigar smoking
+Is this relevant?
+resignation
+Is this relevant?
+raven
+Is this relevant?
+practical joke
+Is this relevant?
+pandemonium
+Is this relevant?
+newspaper headline
+Is this relevant?
+kitten
+Is this relevant?
+hug
+Is this relevant?
+fireworks
+Is this relevant?
+duet
+Is this relevant?
+darts
+Is this relevant?
+dancing
+Is this relevant?
+crutches
+Is this relevant?
+confession
+Is this relevant?
+board meeting
+Is this relevant?
+bell
+Is this relevant?
+artist model
+Is this relevant?
+applause
+Is this relevant?
+advice
+Is this relevant?
+sliding down a banister
+Is this relevant?
+wealth
+Is this relevant?
+slapstick comedy
+Is this relevant?
+screwball comedy
+Is this relevant?
+gorilla mask
+Is this relevant?
+reference to the book of matthew
+Is this relevant?
+irs agent
+Is this relevant?
+punctuation in title
+Is this relevant?
+apostrophe in title
+Is this relevant?
+reference to matthew 6 28
+Is this relevant?
+accordion
+Is this relevant?
+grandfather granddaughter relationship
+Is this relevant?
+family relationships
+Is this relevant?
+transformation
+Is this relevant?
+service
+Is this relevant?
+reporter
+Is this relevant?
+real estate
+Is this relevant?
+playwright
+Is this relevant?
+friendship
+Is this relevant?
+father son relationship
+Is this relevant?
+confectioner
+Is this relevant?
+communism
+Is this relevant?
+free thinker
+Is this relevant?
+g man
+Is this relevant?
+self discovery
+Is this relevant?
+family disapproval
+Is this relevant?
+embarrassment
+Is this relevant?
+dysfunctional family
+Is this relevant?
+class
+Is this relevant?
+typewriter
+Is this relevant?
+toy
+Is this relevant?
+stamp collecting
+Is this relevant?
+painter
+Is this relevant?
+moving van
+Is this relevant?
+mask
+Is this relevant?
+maid
+Is this relevant?
+lawyer
+Is this relevant?
+judge
+Is this relevant?
+home sweet home
+Is this relevant?
+football player
+Is this relevant?
+family business
+Is this relevant?
+discus
+Is this relevant?
+dart
+Is this relevant?
+dance instructor
+Is this relevant?
+crow
+Is this relevant?
+cook
+Is this relevant?
+adding machine
+Is this relevant?
+russian american
+Is this relevant?
+crutch
+Is this relevant?
+banker
+Is this relevant?
+courtroom
+Is this relevant?
+heart attack
+Is this relevant?
+restaurant
+Is this relevant?
+dancer
+Is this relevant?
+class differences
+Is this relevant?
+inventor
+Is this relevant?
+engagement
+Is this relevant?
+wrestling
+Is this relevant?
+pulitzer prize source
+Is this relevant?
+harmonica
+Is this relevant?
+eviction
+Is this relevant?
+prayer
+Is this relevant?
+suspected communist
+Is this relevant?
+jail
+Is this relevant?
+broken engagement
+Is this relevant?
+spit in the face
+Is this relevant?
+art model
+Is this relevant?
+marriage proposal
+Is this relevant?
+snobbery
+Is this relevant?
+firework
+Is this relevant?
+dinner party
+Is this relevant?
+vibraphone
+Is this relevant?
+based on play
+Is this relevant?
+title spoken by character
+Is this relevant?

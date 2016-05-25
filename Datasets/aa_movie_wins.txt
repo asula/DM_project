@@ -1,0 +1,89 @@
+3	Wings	1927
+6	Sunrise: A Song of Two Humans	1927
+9	The Broadway Melody	1929
+11	All Quiet on the Western Front	1930
+16	Cimarron	1931
+25	Grand Hotel	1932
+29	Cavalcade	1933
+46	It Happened One Night	1934
+236	Mutiny on the Bounty	1935
+65	The Great Ziegfeld	1936
+78	The Life of Emile Zola	1937
+92	You Can't Take It with You	1938
+94	Gone with the Wind	1939
+112	Rebecca	1940
+117	How Green Was My Valley	1941
+126	Mrs. Miniver	1942
+133	Casablanca	1942
+145	Going My Way	1944
+150	The Lost Weekend	1945
+153	The Best Years of Our Lives	1946
+160	Gentleman's Agreement	1947
+163	Hamlet	1948
+168	All the King's Men	1949
+173	All About Eve	1950
+178	An American in Paris	1951
+183	The Greatest Show on Earth	1952
+188	From Here to Eternity	1953
+195	On the Waterfront	1954
+199	Marty	1955
+203	Around the World in Eighty Days	1956
+208	The Bridge on the River Kwai	1957
+216	Gigi	1958
+219	Ben-Hur	1959
+224	The Apartment	1960
+232	West Side Story	1961
+233	Lawrence of Arabia	1962
+242	Tom Jones	1963
+246	My Fair Lady	1964
+251	The Sound of Music	1965
+254	A Man for All Seasons	1966
+262	In the Heat of the Night	1967
+265	Oliver!	1968
+271	Midnight Cowboy	1969
+277	Patton	1970
+280	The French Connection	1971
+286	The Godfather	1972
+291	The Sting	1973
+295	The Godfather: Part II	1974
+302	One Flew Over the Cuckoo's Nest	1975
+306	Rocky	1976
+308	Annie Hall	1977
+314	The Deer Hunter	1978
+321	Kramer vs. Kramer	1979
+325	Ordinary People	1980
+329	Chariots of Fire	1981
+334	Gandhi	1982
+342	Terms of Endearment	1983
+343	Amadeus	1984
+350	Out of Africa	1985
+356	Platoon	1986
+361	The Last Emperor	1987
+366	Rain Man	1988
+370	Driving Miss Daisy	1989
+374	Dances with Wolves	1990
+382	The Silence of the Lambs	1991
+387	Unforgiven	1992
+392	Schindler's List	1993
+393	Forrest Gump	1994
+400	Braveheart	1995
+403	The English Patient	1996
+412	Titanic	1997
+416	Shakespeare in Love	1998
+418	American Beauty	1999
+426	Gladiator	2000
+428	A Beautiful Mind	2001
+433	Chicago	2002
+438	The Lord of the Rings: The Return of the King	2003
+445	Million Dollar Baby	2004
+450	Crash	2004
+454	The Departed	2006
+461	No Country for Old Men	2007
+467	Slumdog Millionaire	2008
+472	The Hurt Locker	2008
+482	The King's Speech	2010
+488	The Artist	2011
+498	Argo	2012
+513	12 Years a Slave	2013
+516	Birdman or (The Unexpected Virtue of Ignorance)	2014
+530	Spotlight	2015

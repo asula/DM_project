@@ -1,0 +1,185 @@
+1	Can't Stop the Music	1980
+2	Cruising	1980
+3	The Formula	1980
+4	Friday the 13th	1980
+5	The Jazz Singer	1980
+6	The Nude Bomb	1980
+7	Raise the Titanic	1980
+8	Saturn 3	1980
+9	Windows	1980
+10	Xanadu	1980
+11	Mommie Dearest	1981
+12	Endless Love	1981
+13	Heaven's Gate	1981
+14	The Legend of the Lone Ranger	1981
+15	Tarzan, the Ape Man	1981
+16	Inchon	1982
+17	Annie	1982
+18	Butterfly	1982
+19	Megaforce	1982
+20	The Pirate Movie	1982
+21	The Lonely Lady	1983
+22	Hercules	1983
+23	Jaws 3-D	1983
+24	Stroker Ace	1983
+25	Two of a Kind	1983
+26	Bolero	1984
+27	Cannonball Run II	1984
+28	Rhinestone	1984
+29	Sheena	1984
+30	Where the Boys Are '84	1984
+31	Rambo: First Blood Part II	1985
+32	Fever Pitch	1985
+33	Revolution	1985
+34	Rocky IV	1985
+35	Year of the Dragon	1985
+36	Howard the Duck	1986
+37	Under the Cherry Moon	1986
+38	Blue City	1986
+39	Cobra	1986
+40	Shanghai Surprise	1986
+41	Leonard Part 6	1987
+42	Ishtar	1987
+43	The Revenge	Jaws
+44	Tough Guys Don't Dance	Jaws
+45	Who's That Girl	Jaws
+46	Cocktail	1988
+47	Caddyshack II	1988
+48	Hot to Trot	1988
+49	Mac and Me	1988
+50	Rambo III	1988
+51	Star Trek V: The Final Frontier	1989
+52	The Karate Kid, Part III	1989
+53	Lock Up	1989
+54	Road House	1989
+55	Speed Zone	1989
+56	The Adventures of Ford Fairlane	1990
+57	Ghosts Can't Do It	1990
+58	The Bonfire of the Vanities	1990
+59	Graffiti Bridge	1990
+60	Rocky V	1990
+61	Hudson Hawk	1991
+62	Cool as Ice	1991
+63	Dice Rules	1991
+64	Nothing but Trouble	1991
+65	Return to the Blue Lagoon	1991
+66	Shining Through	1992
+67	The Bodyguard	1992
+68	Christopher Columbus: The Discovery	1992
+69	Final Analysis	1992
+70	Newsies	1992
+71	Indecent Proposal	1993
+72	Body of Evidence	1993
+73	Cliffhanger	1993
+74	Last Action Hero	1993
+75	Sliver	1993
+76	Color of Night	1994
+77	North	1994
+78	On Deadly Ground	1994
+79	The Specialist	1994
+80	Wyatt Earp	1994
+81	Showgirls	1995
+82	Congo	1995
+83	It's Pat: The Movie	1995
+84	The Scarlet Letter	1995
+85	Waterworld	1995
+86	Striptease	1996
+87	Barb Wire	1996
+88	Ed	1996
+89	The Island of Dr. Moreau	1996
+90	The Stupids	1996
+91	The Postman	1997
+92	Anaconda	1997
+93	Batman & Robin	1997
+94	Fire Down Below	1997
+95	Speed 2: Cruise Control	1997
+96	An Alan Smithee Film: Burn Hollywood Burn	1998
+97	Armageddon	1998
+98	The Avengers	1998
+99	Godzilla	1998
+100	Spice World	1998
+101	Wild Wild West	1999
+102	Big Daddy	1999
+103	The Blair Witch Project	1999
+104	The Haunting	1999
+105	Star Wars: Episode I – The Phantom Menace	1999
+106	Battlefield Earth	2000
+107	Book of Shadows: Blair Witch 2	2000
+108	The Flintstones in Viva Rock Vegas	2000
+109	Little Nicky	2000
+110	The Next Best Thing	2000
+111	Freddy Got Fingered	2001
+112	3000 Miles to Graceland	2001
+113	Driven	2001
+114	Glitter	2001
+115	Pearl Harbor	2001
+116	Swept Away	2002
+117	The Adventures of Pluto Nash	2002
+118	Crossroads	2002
+119	Pinocchio	2002
+120	Star Wars: Episode II – Attack of the Clones	2002
+121	Gigli	2003
+122	The Cat in the Hat	2003
+123	Charlie's Angels: Full Throttle	2003
+124	From Justin to Kelly	2003
+125	The Real Cancun	2003
+126	Catwoman	2004
+127	Alexander	2004
+128	Superbabies: Baby Geniuses 2	2004
+129	Surviving Christmas	2004
+130	White Chicks	2004
+131	Dirty Love	2005
+132	Deuce Bigalow: European Gigolo	2005
+133	The Dukes of Hazzard	2005
+134	House of Wax	2005
+135	Son of the Mask	2005
+136	Basic Instinct 2	2006
+137	BloodRayne	2006
+138	Lady in the Water	2006
+139	Little Man	2006
+140	The Wicker Man	2006
+141	I Know Who Killed Me	2007
+142	Bratz	2007
+143	Daddy Day Camp	2007
+144	I Now Pronounce You Chuck and Larry	2007
+145	Norbit	2007
+146	The Love Guru	2008
+147	Disaster Movie	2008
+148	The Happening	2008
+149	The Hottie & the Nottie	2008
+150	In the Name of the King	2008
+151	Transformers: Revenge of the Fallen	2009
+152	All About Steve	2009
+153	G.I. Joe: The Rise of Cobra	2009
+154	Land of the Lost	2009
+155	Old Dogs	2009
+156	The Last Airbender	2010
+157	The Bounty Hunter	2010
+158	Sex and the City 2	2010
+159	The Twilight Saga: Eclipse	2010
+160	Vampires Suck	2010
+161	Jack and Jill	2011
+162	Bucky Larson: Born to Be a Star	2011
+163	New Year's Eve	2011
+164	Transformers: Dark of the Moon	2011
+165	The Twilight Saga: Breaking Dawn – Part 1	2011
+166	The Twilight Saga: Breaking Dawn – Part 2	2012
+167	Battleship	2012
+168	The Oogieloves in the Big Balloon Adventure	2012
+169	That's My Boy	2012
+170	A Thousand Words	2012
+171	Movie 43	2013
+172	After Earth	2013
+173	Grown Ups 2	2013
+174	The Lone Ranger	2013
+175	A Madea Christmas	2013
+176	Saving Christmas	2014
+177	Left Behind	2014
+178	The Legend of Hercules	2014
+179	Teenage Mutant Ninja Turtles	2014
+180	Transformers: Age of Extinction	2014
+181	Fantastic Four	2015
+182	Fifty Shades of Grey	2015
+183	Jupiter Ascending	2015
+184	Paul Blart: Mall Cop 2	2015
+185	Pixels	2015

@@ -1,0 +1,4358 @@
+1	male full frontal nudity
+1	male rear nudity
+1	male frontal nudity
+1	Relevant?  Yes  No
+1	male nudity
+1	new york city
+1	lawyer
+1	disco
+1	pubic hair
+1	male pubic hair
+1	transamerica pyramid
+1	title directed by female
+1	male underwear
+1	bare chested male
+1	worst picture razzie winner
+1	topless female nudity
+1	bare breasts
+1	young men's christian association
+1	scanimate
+1	1970s
+1	punctuation in title
+1	box office flop
+1	female nudity
+1	gay cowboy
+1	telephone box
+1	stage fright
+1	split screen
+1	songwriter
+1	soldier
+1	san francisco california
+1	roller skating
+1	recording studio
+1	record producer
+1	quitting a job
+1	premarital sex
+1	pop group
+1	police officer
+1	old flame
+1	nightclub
+1	native american
+1	music store
+1	mugging
+1	milk
+1	marriage proposal
+1	locker room
+1	jealousy
+1	houseguest
+1	golden gate bridge
+1	gay interest
+1	friendship
+1	flirting
+1	fitness gym
+1	fire sprinkler
+1	fantasy sequence
+1	drugs
+1	divorce
+1	dancing
+1	cowboy
+1	contact lens
+1	construction worker
+1	commercial
+1	club dj
+1	cafe
+1	biker
+1	baton twirling
+1	backstage
+1	audition
+1	airplane
+1	dance
+1	supermodel
+1	mother son relationship
+1	cannabis
+1	independent film
+1	actor shares first name with character
+101	steampunk
+101	inventor
+101	general
+101	u.s. marshal
+101	utah
+101	washington d.c.
+101	master of disguise
+101	confederate
+101	hero
+101	villain
+101	disguise
+101	train
+101	agent
+101	three word title
+101	mechanical spider
+101	reference to james bond
+101	amputee
+101	steampunk comedy
+101	cardinal direction in title
+101	femme fatale
+101	actor playing multiple roles
+101	captain
+101	shot to death
+101	civil war veteran
+101	terrorist
+101	terrorism
+101	violence
+101	bare chested male
+101	cowboy
+101	brothel
+101	assassin
+101	blockbuster
+101	black hero
+101	ex soldier
+101	held at gunpoint
+101	mad scientist
+101	pistol
+101	mexican standoff
+101	gadgetry
+101	desert
+101	spider
+101	megalomaniac
+101	world domination
+101	revenge
+101	bar
+101	prostitute
+101	government agent
+101	spy
+101	explosion
+101	opening action scene
+101	winchester rifle
+101	repeating rifle
+101	assassination attempt
+101	u.s. army
+101	evil scientist
+101	punched in the face
+101	stick fight
+101	hanging
+101	sword fight
+101	sword
+101	stabbed in the chest
+101	acting musician
+101	rap music
+101	shootout
+101	gun fu
+101	cannon
+101	shot in the face
+101	shot in the head
+101	shot in the chest
+101	two man army
+101	showdown
+101	gunfight
+101	spur
+101	black cowboy
+101	cowboy boots
+101	cowboy hat
+101	hand to hand combat
+101	gunslinger
+101	revolver
+101	buddy cop
+101	spy spoof
+101	six shooter
+101	fistfight
+101	bar brawl
+101	bar fight
+101	brawl
+101	attempted seduction
+101	action hero
+101	western hero
+101	hit with a shovel
+101	kung fu
+101	quick draw
+101	tough guy
+101	chase
+101	martial arts
+101	worst picture razzie winner
+101	evil man
+101	exploding building
+101	train ride
+101	severed head
+101	massacre
+101	love interest
+101	kidnapping
+101	invention
+101	hypnotism
+101	good versus evil
+101	giant robot
+101	fake breasts
+101	cross dressing
+101	critically bashed
+101	bulletproof vest
+101	based on tv show
+101	cult film
+101	based on cult tv series
+101	buddy movie
+101	19th century
+101	box office flop
+101	racial stereotype
+101	hispanic
+101	female nudity
+101	secret agent
+101	love triangle
+101	african american
+101	u.s. president
+101	robot spider
+101	giant spider
+101	futuristic train
+101	racism
+101	nudity
+101	drag
+101	race relations
+101	wheelchair
+101	battle hymn of the republic
+101	buddy comedy
+101	male nudity
+101	tarantula
+101	historical fiction
+101	remake
+101	magnet
+101	prostitution
+101	gadget
+101	gatling gun
+101	based on tv series
+101	character name in title
+106	alien
+106	voyager golden record
+106	pulp fiction
+106	resistance fighter
+106	battle
+106	exploding plane
+106	exploding ship
+106	villain arrested
+106	training
+106	dystopia
+106	space travel
+106	capture
+106	rat
+106	campfire
+106	cave
+106	tribe
+106	planet
+106	outer space
+106	exploding head
+106	dreadlocks
+106	campy
+106	giant
+106	drunkenness
+106	chase
+106	satire
+106	torture
+106	film starts with text
+106	fictional war
+106	laser gun
+106	good versus evil
+106	nuclear bomb
+106	severed arm
+106	human alien
+106	controversy
+106	critically bashed
+106	unintentionally funny
+106	science fantasy
+106	planet in title
+106	nuclear
+106	location in title
+106	earth in the balance
+106	social commentary
+106	post apocalypse
+106	hologram
+106	self sacrifice
+106	bazooka
+106	resistance
+106	prison
+106	horse
+106	tank
+106	shootout
+106	machine gun
+106	dogfight
+106	white house
+106	worst picture razzie winner
+106	elongated cry of no
+106	waterfall
+106	slavery
+106	library
+106	fighter jet
+106	falling glass
+106	explosion
+106	epic
+106	domed city
+106	declaration of independence
+106	cage
+106	broken glass
+106	alien ruling earth
+106	yelling
+106	year in title
+106	digit in title
+106	necklace bomb
+106	villain played by lead actor
+106	box office flop
+106	30th century
+106	teleportation
+106	arm blown off
+106	exploding planet
+106	running through a plate glass window
+106	man animal
+106	flight simulator
+106	abandoned library
+106	tongue
+106	gold
+106	fort knox
+106	demolished town
+106	mannequin
+106	miniature golf
+106	credits as currency
+106	nuclear weapons
+106	wipe
+106	cow
+106	hidden camera
+106	denver colorado
+106	mining
+106	zoo
+106	washington d.c.
+106	bar
+106	gold bar
+106	alien language
+106	dutch angle
+106	alien invasion
+106	based on novel
+106	number in title
+11	adopted daughter
+11	perfection
+11	lawyer
+11	mansion
+11	nylon stockings
+11	female stockinged legs
+11	misunderstanding
+11	legs
+11	cigarette smoking
+11	bitch
+11	bad temper
+11	borderline personality disorder
+11	based on memoir
+11	based on autobiography
+11	pepsi cola
+11	abusive parent
+11	sociopath
+11	bad mother
+11	female protagonist
+11	worst picture razzie winner
+11	sadistic cruelty
+11	confrontation
+11	playing mommy
+11	interfering mother
+11	maliciousness
+11	teenage sexuality
+11	suspenders
+11	white panties
+11	hand in panties
+11	heavy petting
+11	death of stepfather
+11	death
+11	abuse
+11	beating
+11	insecurity
+11	self centeredness
+11	self aggrandizement
+11	adoptive mother adopted son relationship
+11	adoptive mother adopted daughter relationship
+11	campy
+11	mother superior
+11	convent school
+11	fired from the job
+11	reference to pepsi
+11	childhood memory
+11	mother versus daughter
+11	critically bashed
+11	soap opera in plot
+11	abusive mother
+11	adopted son
+11	price of fame
+11	manic depression
+11	ego
+11	docudrama
+11	diva
+11	discipline
+11	behind the scenes
+11	alcoholism
+11	domineering mother
+11	dysfunctional family
+11	wire hanger
+11	last will and testament
+11	wedding reception
+11	wake
+11	strangulation
+11	stepfather stepdaughter relationship
+11	stable
+11	spanking
+11	single mother
+11	restaurant
+11	radio broadcasting
+11	photographer
+11	ovarian cancer
+11	nun
+11	new york city
+11	movie star
+11	motion picture executive
+11	melodrama
+11	marriage
+11	loss of mother
+11	death of husband
+11	los angeles california
+11	jogging
+11	interview
+11	infertility
+11	hospital
+11	hollywood california
+11	haircut
+11	gift
+11	garden
+11	funeral home
+11	first kiss
+11	film industry
+11	face slap
+11	drink thrown into someone's face
+11	divorcee
+11	cult film
+11	corporate executive
+11	construction site
+11	clothes hanger
+11	christmas
+11	child restraint device
+11	catholic school
+11	carousel
+11	boarding school
+11	board meeting
+11	birthday party
+11	beach
+11	axe
+11	award
+11	1930s
+11	adoption
+11	swimming pool
+11	1960s
+11	1950s
+11	alcoholic
+11	1940s
+11	filmmaking
+11	child abuse
+11	actress
+11	mother daughter relationship
+11	death of mother
+11	based on book
+11	title spoken by character
+111	animator
+111	bamboo cane
+111	sausage
+111	cartoonist
+111	slacker
+111	wheelchair
+111	quitting a job
+111	three word title
+111	sexual innuendo in title
+111	telling someone to shut up
+111	lying
+111	claim in title
+111	parody
+111	over the top
+111	camp
+111	satire
+111	elephant penis
+111	incest joke
+111	penis joke
+111	umbilical cord
+111	dog
+111	factory
+111	dead deer
+111	penis
+111	ejaculation
+111	riding crop
+111	orgasm
+111	caning
+111	erection
+111	oral sex
+111	worst picture razzie winner
+111	morley cigarettes
+111	shock humor
+111	critically bashed
+111	surrealism
+111	controversy
+111	horse penis
+111	box office flop
+111	skating
+111	absurd humor
+111	insanity
+111	father son estrangement
+111	clumsy
+111	animal penis
+111	hit by a car
+111	scream
+111	masturbation
+111	fellatio
+111	crude humour
+111	animal skinning
+111	gore
+111	sketch comedy
+111	roadkill
+111	goatee
+111	directed by star
+111	surprise after end credits
+111	helicopter
+111	automobile
+111	bad taste humour
+111	penis fixation
+111	sex
+111	child molestation institute
+111	semen
+111	spoof
+111	millionaire
+111	father son relationship
+111	mirror
+111	desert
+111	elephant
+111	part animation
+111	self referential
+111	brain damage
+111	self mocking
+111	cruel joke
+111	sodomy
+111	comedian
+111	cheese factory
+111	gross out comedy
+111	idiot
+111	blood
+111	udder
+111	bestiality
+111	incest
+111	skateboard
+111	politically incorrect
+111	child molestation
+111	sausage organ
+111	black comedy
+111	stupidity
+111	punk
+111	deer
+111	pakistan
+111	sandwich
+111	cult film
+111	bowels
+111	character name in title
+116	island
+116	vacation
+116	stranded
+116	storm
+116	sailor
+116	foreign language adaptation
+116	stranded on an island
+116	worst picture razzie winner
+116	box office flop
+116	female nudity
+116	nudity
+116	remake of italian film
+116	sex
+116	money
+116	high society
+116	yacht
+116	wealth
+116	waiter
+116	vulgar language
+116	survival
+116	spear
+116	ship captain
+116	ring
+116	rescue
+116	physical abuse
+116	message
+116	mental abuse
+116	gunfire
+116	flare gun
+116	fish
+116	fisherman
+116	dinghy
+116	cocaine
+116	chess
+116	card game
+116	capitalism
+116	adrift
+116	lightning
+116	love
+116	remake
+116	fantasy sequence
+116	communism
+116	rich woman
+116	helicopter
+116	octopus
+121	lesbian
+121	hospital
+121	gangster
+121	thug
+121	mob
+121	love
+121	kidnapping
+121	surname as title
+121	looking at the camera
+121	cartoon on tv
+121	hairy chest
+121	bare chested male
+121	sun tzu
+121	worst picture razzie winner
+121	cult film
+121	one word title
+121	severed thumb
+121	witness
+121	witness protection program
+121	wheelchair
+121	weather
+121	watching tv
+121	walkie talkie
+121	voice over narration
+121	vagina
+121	underwear
+121	turkey
+121	thumb
+121	telephone call
+121	tattoo
+121	talking to self in mirror
+121	talking dirty
+121	talking to the camera
+121	subpoena
+121	stupidity
+121	slug
+121	shot
+121	sex
+121	sexism
+121	restaurant
+121	reading
+121	rap music
+121	post office
+121	poppy seeds
+121	policeman
+121	penis
+121	pay phone
+121	pacific coast highway
+121	organ score
+121	mother son relationship
+121	mail
+121	machismo
+121	los angeles california
+121	lips
+121	laundromat
+121	kiss
+121	karate
+121	insulin
+121	injection
+121	homosexual
+121	hand job
+121	gun
+121	gay
+121	flashlight
+121	fish
+121	fingernails
+121	fence
+121	extortion
+121	emergency room
+121	dead body
+121	dancing
+121	wrist slitting
+121	cunnilingus
+121	clothes dryer
+121	cell phone
+121	cafe
+121	brother brother relationship
+121	book
+121	blood
+121	beach
+121	australia
+121	assumed identity
+121	aquarium
+121	box office flop
+121	mentally disabled
+121	critically bashed
+121	yoga
+121	detective
+121	shot in the head
+121	bisexual
+121	mob enforcer
+121	product placement
+121	character name in title
+126	cat
+126	detective
+126	radical transformation
+126	bechdel test passed
+126	one woman army
+126	jewelry theft
+126	nightclub
+126	back from the dead
+126	female thief
+126	police station
+126	security guard
+126	police detective
+126	police
+126	investigation
+126	woman cat relationship
+126	2000s
+126	masked hero
+126	whipping
+126	whip
+126	female fighter
+126	super powers
+126	warrior
+126	tough girl
+126	female warrior
+126	masked vigilante
+126	chase
+126	martial arts
+126	machine gun
+126	pump action shotgun
+126	shotgun
+126	showdown
+126	gunfight
+126	shootout
+126	robbery
+126	masked superhero
+126	vigilante
+126	vigilante justice
+126	vigilantism
+126	poetic justice
+126	fistfight
+126	brawl
+126	semiautomatic pistol
+126	pistol
+126	hand to hand combat
+126	revenge
+126	urban setting
+126	urban decay
+126	organized crime
+126	gangster
+126	gang
+126	disarming someone
+126	kung fu
+126	mixed martial arts
+126	stylized violence
+126	whip fight
+126	acrobatics
+126	acrobat
+126	parkour
+126	fight
+126	fighting
+126	origin of hero
+126	heroine
+126	female protagonist
+126	worst picture razzie winner
+126	one word title
+126	animal in title
+126	anti hero
+126	cult film
+126	wtf
+126	ass
+126	capoeira
+126	box office flop
+126	critically bashed
+126	action heroine
+126	falling down stairs
+126	thrown through a window
+126	cosmetics industry
+126	cat woman
+126	superhero
+126	super villain
+126	villain
+126	superheroine
+126	murder
+126	mask
+126	good versus evil
+126	dc comics
+126	based on comic book
+126	title spoken by character
+126	character name in title
+131	photographer
+131	love
+131	sex
+131	breasts
+131	pale blue bra
+131	exposed thong underwear
+131	whale tail underwear
+131	worst picture razzie winner
+131	bare chested male
+131	public humiliation
+131	male rear nudity
+131	male full back nudity
+131	bare butt
+131	dinner
+131	bed
+131	cunnilingus
+131	tall woman
+131	strip search
+131	strangling
+131	simulated sex
+131	shaving armpits
+131	satire
+131	revenge
+131	racial stereotype
+131	pulled over by police
+131	promiscuity
+131	paparazzi
+131	pain
+131	oral sex in a car
+131	nipple slip
+131	neck brace
+131	mugshot
+131	moaning
+131	magic trick
+131	love hate
+131	jerk
+131	jail
+131	ice cream sundae
+131	grocery store
+131	fetish sex
+131	female photographer
+131	face mask
+131	cougar as older woman
+131	clubbing
+131	cavity search
+131	casting director
+131	bitterness
+131	bimbo
+131	band
+131	bad date
+131	audition
+131	aspiring actress
+131	airhead
+131	slang
+131	shopping
+131	orgasm
+131	oral sex
+131	mascara running
+131	los angeles california
+131	hollywood boulevard
+131	heartbreak
+131	heart broken
+131	fortune teller
+131	flirting
+131	face slap
+131	emotional meltdown
+131	chinese food
+131	cheating boyfriend
+131	breaking and entering
+131	brazilian waxing
+131	blonde
+131	bad behavior
+131	sanitary napkin
+131	maxi pad
+131	telephone call
+131	drunkenness
+131	clumsiness
+131	awkwardness
+131	sleeping
+131	sexual perversion
+131	sexual attraction
+131	nerd
+131	motorcycle
+131	male model
+131	hallucination
+131	frustration
+131	fish
+131	fashion show
+131	fart joke
+131	ecstasy
+131	drugged
+131	drinking
+131	disillusionment
+131	catwalk
+131	bedroom
+131	bad smell
+131	vomiting
+131	urine
+131	urination
+131	underwear
+131	thong
+131	tampon
+131	shame
+131	sexual humor
+131	scream
+131	screaming
+131	scatology
+131	scatological humor
+131	sadness
+131	rampage
+131	panties
+131	menstruation
+131	male nudity
+131	humiliation
+131	gross out
+131	gross out comedy
+131	friend
+131	female nudity
+131	ex boyfriend ex girlfriend relationship
+131	embarrassment
+131	depilation
+131	crying
+131	caught having sex
+131	camera
+131	broken camera
+131	bra
+131	black humor
+131	black comedy
+131	anger
+131	supermarket
+131	restaurant
+131	pawnshop
+131	magician
+131	guitar
+131	bus
+131	body waxing
+131	stupidity
+131	idiot
+131	gross out humor
+131	foolish
+131	crude humor
+131	bad taste
+131	destiny
+131	menstrual blood
+131	break up
+136	psychiatrist
+136	drugs
+136	scotland yard
+136	sex
+136	murder
+136	sequel
+136	erotic thriller
+136	the gherkin london
+136	strong female lead
+136	consensual sex
+136	female female kiss
+136	lesbian kiss
+136	sex in bed
+136	coitus
+136	female removes her clothes
+136	panties pulled down
+136	girl in panties
+136	black panties
+136	promiscuous woman
+136	leg spreading
+136	lingerie
+136	fondling
+136	female rear nudity
+136	scantily clad female
+136	erotica
+136	fatal attraction
+136	panties
+136	jacuzzi
+136	female frontal nudity
+136	nipples visible through clothing
+136	cleavage
+136	male rear nudity
+136	male nudity
+136	worst picture razzie winner
+136	no panties
+136	soho london
+136	legs
+136	cigarette smoking
+136	prostitute
+136	lesbian interest
+136	bisexual
+136	autoerotic asphyxiation
+136	critically bashed
+136	box office flop
+136	rough sex
+136	sports star
+136	seduction
+136	psychology
+136	novel
+136	murder investigation
+136	lust
+136	femme fatale
+136	doctor patient relationship
+136	deception
+136	sadist
+136	mind game
+136	nudity
+136	female nudity
+136	interracial relationship
+136	serial killer
+136	insulin
+136	throat slitting
+136	london eye
+136	london england
+136	lesbian
+136	lawyer
+136	second part
+136	title spoken by character
+136	rear entry sex
+136	breasts
+136	playing god
+141	killer
+141	serial killer
+141	high school student
+141	story
+141	hospital
+141	small town
+141	aspiring writer
+141	fbi
+141	writer
+141	piano
+141	stripper
+141	identity
+141	condom
+141	cult film
+141	cult
+141	worst picture razzie winner
+141	evil man
+141	striptease
+141	stripping
+141	strip club
+141	shower
+141	hitchhiker
+141	hand cut off
+141	female nudity
+141	buried alive
+141	tied to a chair
+141	bound and gagged
+141	dry ice
+141	abduction
+141	psycho thriller
+141	claim in title
+141	owl
+141	drunk driving
+141	critically bashed
+141	revenge
+141	red
+141	gore
+141	opossum
+141	glass coffin
+141	arm amputation
+141	amputee sex
+141	wheelchair
+141	vision
+141	twin
+141	telepathy
+141	stigmata
+141	stabbed in the neck
+141	severed leg
+141	severed finger
+141	rose
+141	pole dancing
+141	nightclub
+141	new identity
+141	mirror
+141	glass
+141	exotic dancer
+141	dead body
+141	computer
+141	casual sex
+141	bus stop
+141	body part
+141	blue
+141	blood
+141	artificial leg
+141	artificial hand
+141	amputation
+141	torture
+141	stalker
+141	secret
+141	psychopath
+141	murderer
+141	missing person
+141	college
+141	mistaken identity
+141	identical twins
+141	title spoken by character
+146	guru
+146	bucket of popcorn
+146	bloopers during credits
+146	toronto maple leafs
+146	chastity belt
+146	glass shard
+146	mother hits son
+146	penis
+146	ice hockey
+146	sports violence
+146	racial stereotype
+146	male underwear
+146	penis size
+146	shower room
+146	group shower
+146	male in shower
+146	men's locker room
+146	mustache
+146	speedo
+146	locker room
+146	newspaper headline
+146	los angeles kings
+146	staples center los angeles
+146	burping
+146	nose piercing
+146	sexual innuendo
+146	soup
+146	pickle
+146	lychee
+146	miniature office
+146	playing acoustic guitar
+146	butane lighter
+146	blue grass band
+146	crashing through a window
+146	punched in the face
+146	choir practice
+146	male in a shower
+146	implied male nudity
+146	hit by a hockey puck
+146	dice
+146	altoids
+146	clotheslined
+146	cotton candy
+146	corndog
+146	handlebar mustache
+146	depends undergarment
+146	knuckle tattoo
+146	trademark symbol
+146	acronym
+146	gulfstream 3 business jet
+146	bare chested male
+146	reference to celine dion
+146	woman in a bikini
+146	pitching a book
+146	sitting on a pillow
+146	lei
+146	crossed eyes
+146	reference to deepak chopra
+146	belly dancing
+146	playing a surbahar
+146	sportscast
+146	reference to judi dench
+146	marital problem
+146	erection
+146	elephant penis
+146	fake heart attack
+146	sex in public
+146	pizza delivery boy cliche
+146	worst picture razzie winner
+146	toronto ontario canada
+146	urination
+146	slapstick
+146	controversy
+146	slip
+146	sex toy
+146	sex guru
+146	loss of virginity
+146	gag humor
+146	falling on one's head
+146	falling
+146	bad taste
+146	virgin
+146	stanley cup
+146	pratfall
+146	playoffs
+146	pinhead
+146	mistake
+146	midget wrestling
+146	meat
+146	little person
+146	indictable offence
+146	ice skating
+146	ice rink
+146	diarrhea
+146	coach
+146	career move
+146	boycott
+146	arena
+146	accident
+146	abomination
+146	french canadian stereotype
+146	spontaneous erection
+146	beginning morphed with ending
+146	singing in a car
+146	rotoscoping
+146	sitar
+146	product placement
+146	bollywood
+146	bikini
+146	apology
+146	critically bashed
+146	box office flop
+146	tooth extraction
+146	tattoo
+146	sucker punch
+146	stuffed shorts
+146	student mentor relationship
+146	rooster
+146	penis joke
+146	overbearing mother
+146	obscene finger gesture
+146	niagara falls
+146	mother son relationship
+146	midget
+146	martial arts
+146	hit in the groin
+146	hit in the crotch
+146	french canadian
+146	french accent
+146	flatulence
+146	elephant
+146	double entendre
+146	domineering mother
+146	contortionist
+146	canadian stereotype
+146	bleeped dialogue
+146	bird attack
+146	bar fight
+146	animal sex
+146	actress playing herself
+146	actor playing himself
+146	maple leafs
+146	indian guru
+146	hindu
+146	puck bunnies
+146	title spoken by character
+151	decepticon
+151	autobot
+151	sun
+151	symbol
+151	machine
+151	college
+151	egypt
+151	alien
+151	new york city new york
+151	human versus machine
+151	human versus robot
+151	talking robot
+151	rescue
+151	major
+151	british soldier
+151	sas
+151	walkie talkie
+151	magnet
+151	blade
+151	videoconferencing
+151	alien technology
+151	laptop
+151	sword
+151	deception
+151	scantily clad female
+151	sword fight
+151	politician
+151	fear
+151	long take
+151	dancing
+151	cult film
+151	humor
+151	paranoia
+151	missile
+151	underwater scene
+151	ex government agent
+151	pistol
+151	machismo
+151	suburbia
+151	unlikely hero
+151	teenage hero
+151	coming of age
+151	teenage girl
+151	teenage boy
+151	teenager
+151	teenage love
+151	female mechanic
+151	cave
+151	sinking ship
+151	destruction
+151	world domination
+151	megalomaniac
+151	media coverage
+151	midget
+151	news report
+151	spy
+151	shard
+151	beach
+151	mechanic
+151	college student
+151	race against time
+151	macguffin
+151	warrior
+151	commando raid
+151	commando mission
+151	mission
+151	commando unit
+151	commando
+151	top secret
+151	mercenary
+151	courage
+151	bravery
+151	opening action scene
+151	pants falling down
+151	professor
+151	hieroglyphics
+151	car chase
+151	apocalypse
+151	bullet time
+151	shawarma
+151	foot chase
+151	fight
+151	combat
+151	battlefield
+151	u.s. navy
+151	border patrol
+151	jock
+151	vending machine
+151	fire truck
+151	revenge
+151	los angeles california
+151	flashlight
+151	security guard
+151	firefighter
+151	warrior race
+151	alien race
+151	mute
+151	asteroid
+151	fire
+151	woods
+151	military base
+151	exploding bridge
+151	violence
+151	death
+151	murder
+151	based on tv series
+151	blood on camera lens
+151	egyptian pyramid
+151	box office hit
+151	robot versus robot
+151	female autobot
+151	megatron the character
+151	decepticon insignia
+151	decepticon symbol
+151	construction equipment
+151	cement truck
+151	giant decepticon
+151	decepticon combiner
+151	ravage the character
+151	devastator the character
+151	flying autobot
+151	transforming plane
+151	female transformer
+151	injured leader
+151	autobot vs. decepticon
+151	actor voicing multiple characters
+151	starscream the character
+151	human autobot team
+151	dead transformer
+151	dead autobot
+151	human vs transformer
+151	human vs. decepticon
+151	handheld minigun
+151	semi truck
+151	bumblebee the character
+151	optimus prime the character
+151	soundwave the character
+151	matrix of leadership
+151	mousetrap
+151	budweiser
+151	human alien team
+151	alien robot
+151	humanoid alien
+151	female humanoid alien
+151	alien disguised as human
+151	mechanical lifeform
+151	apple
+151	camaro
+151	hdtv
+151	mountain dew
+151	prehistoric times
+151	2000s
+151	21st century
+151	stone age
+151	paleolithic age
+151	170th century b.c.
+151	17000 b.c.
+151	ancient astronaut
+151	lens flare
+151	nightclub
+151	android
+151	general
+151	part of series
+151	punctuation in title
+151	abandoned factory
+151	parachute
+151	drugged food
+151	based on cartoon
+151	based on comic book
+151	fictional war
+151	special forces
+151	chaos
+151	submarine
+151	scene during end credits
+151	hand through chest
+151	severed arm
+151	torso cut in half
+151	air strike
+151	head blown off
+151	product placement
+151	drone
+151	radio
+151	spine ripping
+151	trap
+151	shot in the face
+151	jumping from a rooftop
+151	sos
+151	electro magnetic pulse
+151	flare
+151	u.s. air force
+151	star
+151	new jersey
+151	self sacrifice
+151	bandaged hand
+151	teleportation
+151	knife
+151	blockbuster
+151	taser
+151	male rear nudity
+151	male wearing thong
+151	meat locker
+151	lives with mother
+151	virginia
+151	fugitive
+151	kidnapping
+151	mime
+151	impalement
+151	stabbed in the chest
+151	stabbed in the leg
+151	stabbed in the back
+151	head ripped off
+151	decapitation
+151	brain scan
+151	run over by a car
+151	hot wiring a car
+151	library
+151	blowtorch
+151	eye gouging
+151	reference to albert einstein
+151	college professor
+151	back from the dead
+151	resurrection
+151	cemetery
+151	frat party
+151	rocket launcher
+151	brownie the food
+151	forest
+151	outer space
+151	subtitled scene
+151	character says i love you
+151	white dress
+151	thrown through a window
+151	shot in the leg
+151	paris france
+151	father daughter relationship
+151	webcam
+151	garage
+151	cell phone
+151	butt slap
+151	father son relationship
+151	dog sex
+151	shot to death
+151	shot in the head
+151	shot in the chest
+151	on the run
+151	falling from height
+151	jumping from an airplane
+151	sliced in two
+151	shootout
+151	cover up
+151	kicked in the head
+151	chase
+151	pentagon
+151	machine gun
+151	crushed to death
+151	spear
+151	flashback
+151	bare chested male
+151	voice over narration
+151	prologue
+151	worst picture razzie winner
+151	good versus evil
+151	exploding ship
+151	exploding building
+151	desert
+151	walking stick
+151	vehicle
+151	u.s. military
+151	u.s. army
+151	tank
+151	soldier
+151	racial stereotype
+151	motorcycle
+151	military
+151	long tongue
+151	lockheed sr 71
+151	internet
+151	ice cream truck
+151	helicopter
+151	fighter jet
+151	excavator
+151	enola gay
+151	empty nest syndrome
+151	computer
+151	car
+151	bulldozer
+151	brooklyn accent
+151	british accent
+151	boyfriend girlfriend relationship
+151	battle
+151	artifact
+151	army
+151	american soldier
+151	airplane
+151	airplane museum
+151	washington d.c.
+151	slow motion scene
+151	no opening credits
+151	exploding helicopter
+151	exploding car
+151	vehicle lifted by a helicopter
+151	explosion
+151	smithsonian institution
+151	imax
+151	general motors
+151	chevrolet camaro
+151	epic
+151	robot vs. robot
+151	petra
+151	critically bashed
+151	shape shifting alien
+151	human versus alien
+151	human alien
+151	friendly alien
+151	female alien
+151	alien invasion
+151	alien as woman
+151	satellite
+151	pyramid
+151	museum
+151	mother son relationship
+151	military secret
+151	jordan
+151	husband wife relationship
+151	femme fatale
+151	end of the world
+151	conspiracy theory
+151	college roommate
+151	college freshman
+151	college campus
+151	civil war
+151	reference to barack obama
+151	ancient temple
+151	alien attack
+151	aircraft carrier
+151	transforming robot
+151	shanghai china
+151	second part
+151	robot
+151	dog
+151	based on toy
+151	giant robot
+151	sequel
+151	character name in title
+156	fire
+156	water
+156	avatar
+156	kingdom
+156	tribe
+156	attack
+156	world domination
+156	commander
+156	quest
+156	journey
+156	spirit
+156	village
+156	prince
+156	ice
+156	hydrokinesis
+156	geokinesis
+156	aerokinesis
+156	pyrokinesis
+156	warship
+156	sword and sorcery
+156	long take
+156	box office hit
+156	spiritual power
+156	environmental issue
+156	mother earth
+156	technocracy
+156	naturalist
+156	industrialization
+156	natural powers
+156	killing an animal
+156	chi
+156	stick
+156	hostage
+156	fireball
+156	honor
+156	cannon
+156	campfire
+156	palace
+156	tidal wave
+156	giant wave
+156	surrealism
+156	open ended
+156	self sacrifice
+156	slow motion scene
+156	battle
+156	yin and yang
+156	resistance
+156	princess
+156	underwater scene
+156	hidden city
+156	hidden civilization
+156	assassination attempt
+156	ash
+156	smoke
+156	gas explosion
+156	sword fight
+156	spear
+156	corpse
+156	face mask
+156	interrogation
+156	explosion
+156	bridge
+156	offscreen killing
+156	hanged body
+156	guard
+156	castle
+156	rowboat
+156	bow and arrow
+156	threatened with a knife
+156	knife
+156	double cross
+156	betrayal
+156	deception
+156	master apprentice relationship
+156	student teacher relationship
+156	moon
+156	ocean
+156	river
+156	desert
+156	brother brother relationship
+156	warlord
+156	montage
+156	forest
+156	statue
+156	new age
+156	monk
+156	skeleton
+156	skull
+156	dark fantasy
+156	temple
+156	on the run
+156	uncle nephew relationship
+156	general
+156	hand glider
+156	rescue
+156	escape
+156	colony
+156	dreadlocks
+156	rock
+156	candle
+156	grandmother granddaughter relationship
+156	grandmother grandson relationship
+156	hands tied
+156	capture
+156	helmet
+156	fictional war
+156	good versus evil
+156	army
+156	soldier
+156	dragon
+156	creature
+156	mysticism
+156	spirituality
+156	map
+156	igloo
+156	frozen in ice
+156	cryogenics
+156	little boy
+156	rebellion
+156	female fighter
+156	female warrior
+156	child warrior
+156	warrior
+156	christ allegory
+156	icicle
+156	mountain
+156	iceberg
+156	glacier
+156	snow
+156	reincarnation
+156	banishment
+156	resurrection
+156	back from the dead
+156	frozen body
+156	child in peril
+156	child's point of view
+156	child hero
+156	brother sister relationship
+156	voice over narration
+156	film starts with text
+156	no opening credits
+156	altered version of studio logo
+156	cheering
+156	training
+156	philosophy
+156	fish
+156	encased in ice
+156	library
+156	bell
+156	torch
+156	cave
+156	meditate
+156	flotilla
+156	trapped beneath ice
+156	ash fall
+156	narrated by character
+156	vision
+156	betrayed
+156	trap
+156	suspended by arms
+156	super powers
+156	scroll
+156	messiah
+156	boomerang
+156	prison camp
+156	handcuffed
+156	arrest
+156	flashback
+156	glowing eyes
+156	genocide
+156	levitation
+156	icebreaker
+156	tattoo
+156	arctic
+156	sphere
+156	water bubble
+156	beam of light
+156	starts with narration
+156	box office flop
+156	critically bashed
+156	based on animation
+156	3 dimensional
+156	remake
+156	remake of tv show
+156	teenager
+156	family relationships
+156	travel
+156	ship
+156	revenge
+156	martial arts
+156	magic
+156	love
+156	live performance
+156	kidnapping
+156	friendship
+156	fight
+156	father son relationship
+156	death
+156	coming of age
+156	children
+156	chase
+156	based on tv series
+156	based on cartoon
+156	title spoken by character
+156	surprise ending
+16	general
+16	douglas macarthur
+16	inchon
+16	invasion
+16	1950s
+16	korean war
+16	uniform
+16	american soldier
+16	year 1950
+16	military
+16	place name in title
+16	worst picture razzie winner
+16	voice over narration
+16	controversy
+16	one word title
+16	soldier
+16	president
+16	major
+16	korean soldier
+16	army general
+16	admiral
+16	text on screen before film
+16	box office flop
+16	sergeant
+16	usa
+16	united nations
+16	u.s. army
+16	stalinism
+16	soviet
+16	south korea
+16	north korea
+16	massacre
+16	kim il sung
+16	dictator
+16	dictatorship
+16	communist
+16	communism
+16	cold war
+16	atrocity
+16	asia
+16	1980s
+16	korea
+16	independent film
+161	twins
+161	advertising executive
+161	advertising
+161	protective male
+161	commercial
+161	mexican
+161	invented language
+161	gender disguise
+161	man dressed as a woman
+161	cross dressing
+161	annoying person
+161	celebrity
+161	actor
+161	cruise ship
+161	cruise
+161	internet dating
+161	date
+161	party
+161	actor playing himself
+161	surprise party
+161	reference to al pacino
+161	family relationships
+161	new year's eve
+161	christmas
+161	donuts
+161	scene after end credits
+161	reference to jay leno
+161	critically bashed
+161	actor playing female role
+161	three word title
+161	brother sister relationship
+161	los angeles california
+161	actor playing multiple roles
+161	twin brother and sister
+161	character name in title
+166	super strength
+166	vampire
+166	battle
+166	vision
+166	friend
+166	female protagonist
+166	box office hit
+166	based on young adult novel
+166	protective male
+166	showdown
+166	revenge
+166	grudge
+166	romanian
+166	irish
+166	european
+166	egyptian
+166	nomad
+166	illusion
+166	amazonia
+166	shield
+166	150 year old
+166	witness
+166	reference to loch ness monster
+166	half breed
+166	dhampir
+166	forks washington
+166	reference to william shakespeare
+166	deception
+166	head cut off
+166	chief of police
+166	supernatural power
+166	may december romance
+166	seeing the future
+166	mind reading
+166	alliance
+166	native american
+166	head torn off
+166	decapitated head
+166	villainess
+166	decapitation
+166	transformation
+166	returning character killed off
+166	axe
+166	undead
+166	male vampire
+166	rocker
+166	bloodsucker
+166	imprinting
+166	vampirism
+166	time in title
+166	female vampire
+166	vampire versus werewolf
+166	cross breed
+166	vampire vs vampire
+166	misinformation
+166	beheaded
+166	chase
+166	wolf pack
+166	digit in title
+166	false accusation
+166	love
+166	immortality
+166	werewolf
+166	fifth part
+166	based on novel
+166	number in title
+166	Relevant?  Yes  No
+171	awkwardness
+171	irreverence
+171	shame
+171	embarrassment
+171	gross out
+171	vulgarity
+171	politically incorrect
+171	incestuous kiss
+171	incest
+171	mother son relationship
+171	pubic hair
+171	female frontal nudity
+171	gross out humor
+171	crude humor
+171	date
+171	meeting
+171	executive
+171	boyfriend
+171	blind date
+171	love
+171	neck
+171	teenage son
+171	house
+171	birthday
+171	room
+171	speed date
+171	cat
+171	basketball coach
+171	film executive
+171	period
+171	humiliation
+171	testicles
+171	slapstick comedy
+171	troubled production
+171	bare chested male bondage
+171	explosive diarrhea
+171	basketball game
+171	year 1959
+171	hot sauce
+171	facial tattoo
+171	duct tape gag
+171	reference to howard the duck
+171	women wearing a one piece swimsuit
+171	some scenes in black and white
+171	reference to cyrano de bergerac
+171	public address system
+171	reference to isabella rossellini
+171	explosive vest
+171	man wearing a tuxedo
+171	upskirt
+171	beef burrito
+171	engagement ring
+171	lobster dinner
+171	vichyssoise
+171	beating
+171	amorality
+171	blood
+171	death
+171	challenge
+171	mexican restaurant
+171	shooting
+171	gun
+171	office
+171	beach
+171	sea
+171	machine
+171	insult
+171	mistake
+171	failure
+171	disguise
+171	brother
+171	teenage daughter
+171	daughter
+171	employer employee relationship
+171	boss
+171	indiscretion
+171	microphone
+171	birthday cake
+171	rudeness
+171	overreaction
+171	exaggeration
+171	dysfunctional society
+171	dysfunction
+171	dysfunctionality
+171	dysfunctional friendship
+171	obtuseness
+171	fail
+171	scarf
+171	rag doll
+171	doll
+171	sexual perversion
+171	botox
+171	silicone
+171	desire
+171	attraction
+171	girlfriend
+171	perversion
+171	destruction
+171	scandal
+171	bad taste
+171	duct tape
+171	bound and gagged
+171	chair
+171	home
+171	apartment building
+171	apartment
+171	tattoo
+171	basement
+171	youtube
+171	kissing
+171	kiss
+171	couch
+171	vagina
+171	public service announcement
+171	tampon
+171	television commercial
+171	television
+171	watching television
+171	watching tv
+171	bikini girl
+171	bikini
+171	shark
+171	bomb
+171	bomb threat
+171	grocery
+171	store
+171	sexual insult
+171	neighbor
+171	table
+171	dinner
+171	fight
+171	ethnic humor
+171	dirt
+171	filth
+171	obscenity
+171	sexuality
+171	sex
+171	imbecility
+171	idiocy
+171	fiasco
+171	surprise
+171	drinking
+171	eating
+171	insecurity
+171	immaturity
+171	bedroom
+171	bed
+171	boredom
+171	tedium
+171	mediocrity
+171	confusion
+171	gold
+171	impulsiveness
+171	fondling
+171	manipulation
+171	unscrupulousness
+171	tears
+171	buxom
+171	personal question
+171	unexpected question
+171	sudden question
+171	living room
+171	inconsistency
+171	incoherence
+171	nonsense
+171	foolishness
+171	dumbness
+171	urination
+171	urine
+171	zoophilia
+171	best friend
+171	friend
+171	webcam
+171	teenage boy
+171	teenage girl
+171	girl
+171	boy
+171	boy with glasses
+171	first menstruation
+171	menstrual blood
+171	menstruation
+171	violence
+171	grotesque
+171	defecation
+171	excrement
+171	boyfriend girlfriend relationship
+171	clumsiness
+171	stupidity
+171	super villain
+171	superheroine
+171	superhero
+171	internet video
+171	nudity
+171	male nudity
+171	female nudity
+171	sketch
+171	talking about sex
+171	dysfunctional couple
+171	dysfunctional family
+171	dysfunctional relationship
+171	argument
+171	discussion
+171	conversation
+171	different stories
+171	scatology
+171	scatological humor
+171	website
+171	internet
+171	computer screen
+171	laptop
+171	computer
+171	dark humor
+171	sexual humor
+171	black humor
+171	humor
+171	man with glasses
+171	playing against type
+171	evil animal
+171	cartoon cat
+171	cartoon reality crossover
+171	movie in title
+171	stabbed to death
+171	stabbed in the head
+171	hit with a shovel
+171	shot in the back
+171	caught masturbating
+171	scene during end credits
+171	outtakes during end credits
+171	freeze frame
+171	slow motion scene
+171	breaking the fourth wall
+171	basketball team
+171	plastic surgery
+171	blind child
+171	birthday present
+171	truth or dare
+171	murder
+171	fairy
+171	shot to death
+171	shot in the head
+171	shot in the eye
+171	shot in the chest
+171	stabbed in the butt
+171	pot of gold
+171	tied to a chair
+171	head butt
+171	punched in the face
+171	pistol whip
+171	spitting blood
+171	coprophilia
+171	leprechaun
+171	finger gun
+171	shark attack
+171	eaten alive
+171	severed arm
+171	severed finger
+171	grenade
+171	fake commercial
+171	black and white scene
+171	one day
+171	one night
+171	strapped to a bomb
+171	speed dating
+171	grocery store
+171	grocery store clerk
+171	pistol
+171	hit by a car
+171	flatulence
+171	feces
+171	laxative
+171	written by director
+171	father son relationship
+171	party
+171	male rear nudity
+171	flashback
+171	husband wife relationship
+171	real life husband and wife play husband and wife
+171	homeschooling
+171	restaurant
+171	character repeating someone else's dialogue
+171	film studio
+171	no opening credits
+171	anthology
+171	shock humor
+171	semen in hair
+171	sketch comedy
+171	ensemble cast
+171	title spoken by character
+171	number in title
+176	critically bashed
+176	christmas
+176	beard
+176	voice over narration
+176	christian film
+176	christian propaganda
+176	christian
+176	tradition
+176	brother in law
+176	christmas party
+176	dance scene
+176	christmas dinner
+176	car
+176	child
+176	man with glasses
+176	freeze frame
+176	slow motion
+176	christmas tree
+176	breakdancing
+176	dancing
+176	santa claus
+176	holiday season
+176	christmas tradition
+176	christianity
+176	christmas season
+176	christmas movie
+176	holiday in title
+181	female nudity
+181	perversion
+181	female frontal nudity
+181	spanking
+181	sex scene
+181	female rear nudity
+181	pubic hair
+181	erotica
+181	bdsm
+181	helicopter
+181	sexual fantasy
+181	male pubic hair
+181	sex toy
+181	loss of virginity
+181	blindfold
+181	rich man poor woman
+181	bondage
+181	male nudity
+181	sexuality
+181	sexual awakening
+181	barefoot woman
+181	four word title
+181	consenting woman
+181	consenting adult
+181	critically bashed
+181	telephone call
+181	posing for a photo
+181	wardrobe
+181	bare chested male
+181	rainy day
+181	chauffeur
+181	glider
+181	based on novel
+181	billionaire
+181	woman wearing only a man's shirt
+181	dancing
+181	dinner
+181	wine drinking
+181	alcohol
+181	love
+181	passionate kiss
+181	sadomasochism
+181	female pubic hair
+181	kissing in an elevator
+181	photographer
+181	whip
+181	virgin
+181	undressing someone
+181	kissing
+181	sex in an elevator
+181	ice cube
+181	apple computer
+181	alternative lifestyle
+181	office
+181	closet
+181	elevator
+181	number in title
+181	character name in title
+181	willing woman
+181	laptop
+181	city
+181	naive
+181	title directed by female
+181	six lashes
+181	child abuse victim
+181	barrel roll
+181	camera shot of feet
+181	margarita
+181	cosmopolitan the drink
+181	gazpacho
+181	son of a prostitute
+181	son of a crack addict
+181	hand slap
+181	braided hair
+181	graduation present
+181	gift
+181	biting lip
+181	close up of mouth
+181	contract negotiation
+181	helium balloon
+181	reference to mrs. robinson
+181	walking in the woods
+181	car collection
+181	grand piano
+181	cooking breakfast
+181	playing piano
+181	man undressing a woman
+181	two in a bath
+181	eurocopter sa 341 gazelle
+181	dominant
+181	non disclosure agreement
+181	seattle nightscape
+181	helicopter pilot
+181	product placement
+181	female vomiting
+181	waiting in line for a restroom
+181	drunk dialing
+181	first edition book
+181	chauffeured limousine
+181	caught having sex
+181	duct tape
+181	rope
+181	cable tie
+181	hardware store
+181	volkswagen beetle
+181	walking in the rain
+181	reference to thomas hardy
+181	reference to jane austen
+181	monogrammed pencil
+181	apple laptop
+181	trip and fall
+181	close up of eye
+181	cuff links
+181	box office hit
+181	breasts
+181	merkin wig
+181	blockbuster
+181	jogging
+181	flying
+181	pulling down pants
+181	high rise
+181	macbook air laptop
+181	title same as book
+181	cell phone
+181	photo shoot
+181	seattle washington
+182	box office flop
+182	critically bashed
+182	troubled production
+182	teleportation
+182	portal
+182	telekinesis
+182	transformation
+182	teleporter
+182	invisibility
+182	marvel comics
+182	superheroine
+182	super villain
+182	superhero
+182	superhero team
+182	title at the end
+182	raised middle finger
+182	reboot of series
+182	young version of character
+182	based on comic book
+182	based on comic
+182	scientist
+182	science fair
+182	force field
+182	american flag
+182	supervillian origin
+182	breaking a basketball backboard
+182	c 130 hercules
+182	uh 60 blackhawk helicopter
+182	guard dog
+182	baseball bat
+182	superhero origin
+182	scrap yard
+182	area 57
+182	hand to hand combat
+182	martial arts
+182	action violence
+182	violence
+182	reference to instagram
+182	shot in the forehead
+182	shot in the chest
+182	glowing eyes
+182	close up of eyes
+182	air vent
+182	area 51
+182	bare chested male
+182	reference to buzz aldrin
+182	reference to neil armstrong
+182	reference to adolf hitler
+182	street race
+182	interracial relationship
+182	father daughter relationship
+182	reference to albert einstein
+182	abusive brother
+182	brother brother relationship
+182	oyster bay new york
+182	invisibility cloak
+182	tied to a bed
+182	shapeshifting
+182	alien planet
+182	computer hacker
+182	car crash
+182	research facility
+182	subjective camera
+182	character's point of view camera shot
+182	burned alive
+182	two way mirror
+182	missile
+182	origin of hero
+182	gurney
+182	commando
+182	capture
+182	hazmat suit
+182	knocked out
+182	animal testing
+182	rescue
+182	near death experience
+182	escape
+182	think tank
+182	research and development
+182	high tech
+182	british actor playing american character
+182	engineer
+182	car race
+182	montage
+182	shipping container
+182	beam of light
+182	pentagon
+182	general
+182	government agent
+182	helicopter
+182	drone
+182	library
+182	black hole
+182	wormhole
+182	toy car
+182	monkey
+182	power outage
+182	electromagnetic pulse
+182	cell phone
+182	body suit
+182	teenage hero
+182	teenager
+182	high school student
+182	high school teacher
+182	high school
+182	spacesuit
+182	face slap
+182	junkyard
+182	drawing
+182	drunkenness
+182	fugitive
+182	on the run
+182	forest
+182	cabin in the woods
+182	subtitled scene
+182	disarming someone
+182	brawl
+182	fistfight
+182	commando raid
+182	head butt
+182	crater
+182	race against time
+182	beating
+182	punched in the face
+182	showdown
+182	battle
+182	good versus evil
+182	megalomaniac
+182	end of the world
+182	presumed dead
+182	cape
+182	laboratory
+182	security guard
+182	surveillance
+182	black ops
+182	top secret
+182	military base
+182	soldier
+182	u.s. army
+182	electrocution
+182	new york city
+182	machine gun
+182	father son relationship
+182	orphan
+182	adopted daughter
+182	professor
+182	inventor
+182	invention
+182	child prodigy
+182	child genius
+182	supernatural power
+182	mutation
+182	giant
+182	stretching
+182	death
+182	blood splatter
+182	blood
+182	exploding airplane
+182	exploding body
+182	explosion
+182	person on fire
+182	fire
+182	no title at beginning
+182	no opening credits
+182	panama
+182	marvel entertainment
+182	military
+182	energy
+182	foundation
+182	experiment
+182	prototype
+182	classroom
+182	year 2007
+182	written by director
+182	exploding head
+182	two word title
+182	childhood friend
+182	flash forward
+182	friendship
+182	fireball
+182	death of father
+182	character repeating someone else's dialogue
+182	year 2015
+182	year 2014
+182	revenge
+182	teenage heroine
+182	experiment gone wrong
+182	anti hero
+182	reluctant hero
+182	murder
+182	teenage girl
+182	teenage boy
+182	remake
+182	re boot
+182	group name in title
+182	digit in title
+182	number in title
+182	surprise ending
+21	female frontal nudity
+21	female nudity
+21	screenwriter
+21	screenplay
+21	garden hose
+21	party
+21	writer
+21	kissing while having sex
+21	sex in bed
+21	breasts
+21	sex scene
+21	older man younger woman relationship
+21	hollywood california
+21	agent
+21	waitress
+21	shouting
+21	argument
+21	abortion clinic
+21	abortion
+21	mother daughter relationship
+21	wedding
+21	humiliation
+21	misogyny
+21	sexism
+21	film director
+21	acceptance speech
+21	award
+21	crying woman
+21	male in shower
+21	male rear nudity
+21	male nudity
+21	hairy chest
+21	bare chested male
+21	speedo
+21	worst picture razzie winner
+21	film industry
+21	speech
+21	show business
+21	husband wife relationship
+21	film set
+21	dysfunctional marriage
+21	shower
+21	catatonia
+21	showbiz
+21	seduction
+21	price of fame
+21	melodrama
+21	harassment
+21	fame
+21	decadence
+21	betrayal
+21	behind the scenes
+21	nightclub
+21	nervous breakdown
+21	movie director
+21	film producer
+21	awards show
+21	actor
+21	rape
+21	lesbian
+21	based on novel
+26	sex scene
+26	psychotronic film
+26	woman smoking a cigar
+26	sauna
+26	hot tub
+26	bull fighter
+26	leg spreading
+26	sex in bed
+26	lust
+26	sexual satisfaction
+26	sexual pleasure
+26	woman in bathtub
+26	female removes her clothes
+26	pubic hair
+26	female pubic hair
+26	female rear nudity
+26	breasts
+26	cleavage
+26	man horse relationship
+26	bull arena
+26	bull
+26	female horse rider
+26	andalusian
+26	bareback riding
+26	woman horse relationship
+26	rider horse relationship
+26	softcore
+26	worst picture razzie winner
+26	female protagonist
+26	nude horseback riding
+26	female full frontal nudity
+26	box office flop
+26	horse
+26	exploitation
+26	sexploitation
+26	grindhouse
+26	cult film
+26	1920s
+26	bullfighting
+26	erotica
+26	spain
+26	morocco
+26	independent film
+31	1980s
+31	rambo
+31	vietnam
+31	mission
+31	prison
+31	vietnamese
+31	rescue
+31	russian
+31	top secret
+31	green beret
+31	soldier
+31	jungle
+31	manhunt
+31	box office hit
+31	hand grenade
+31	heavy rain
+31	rice field
+31	battlefield
+31	brutality
+31	cia agent
+31	warrior
+31	kidnapping
+31	anti hero
+31	helicopter crash
+31	faked death
+31	prisoner of war camp
+31	cold war
+31	boat chase
+31	release from prison
+31	walkie talkie
+31	threatened with a knife
+31	revenge
+31	double cross
+31	hostage
+31	deception
+31	machismo
+31	bandanna
+31	held at gunpoint
+31	electrocution
+31	explosion
+31	interrogation
+31	rifle
+31	spetsnaz
+31	ex special forces
+31	blood splatter
+31	male protagonist
+31	worst picture razzie winner
+31	fistfight
+31	brawl
+31	action hero
+31	hero
+31	wisecrack humor
+31	standoff
+31	escape
+31	strongman
+31	ak 47
+31	showdown
+31	dogfight
+31	guerilla warfare
+31	foot chase
+31	chase
+31	war hero
+31	pistol
+31	shot with a bow and arrow
+31	machine gun
+31	shotgun
+31	knife throwing
+31	captured by the enemy
+31	rescue mission
+31	bombardment
+31	exploding boat
+31	rpg
+31	disarming someone
+31	pump action shotgun
+31	hunting knife
+31	tough guy
+31	massacre
+31	helicopter chase
+31	gunship
+31	m 60 machine gun
+31	silencer
+31	uzi
+31	mixed martial arts
+31	martial arts
+31	hand to hand combat
+31	jungle warfare
+31	combat
+31	death of girlfriend
+31	ambush
+31	murder
+31	kiss
+31	one against many
+31	battle
+31	gunfight
+31	loincloth
+31	male rear nudity
+31	male nudity
+31	knife
+31	shootout
+31	bow and arrow
+31	neck breaking
+31	exploding car
+31	second part
+31	exploding helicopter
+31	bare chested male
+31	one man army
+31	blood
+31	sweat
+31	muscleman
+31	endurance
+31	torture
+31	shot in the head
+31	shot in the back
+31	person on fire
+31	gatling gun
+31	python
+31	psychotronic
+31	cia
+31	gun violence
+31	vietnam veteran
+31	blockbuster
+31	sequel to cult favorite
+31	rocket launcher
+31	cult film
+31	exploding body
+31	electric shock
+31	special forces
+31	betrayal
+31	sequel
+31	waterfall
+31	gun
+31	helicopter
+31	death
+31	chosen one
+31	violence
+31	prison camp
+31	archery
+31	compound bow
+31	prisoner of war
+31	covert operation
+31	character name in title
+321	stripper
+321	cult film
+321	striptease
+321	lap dancing
+321	showgirl
+321	critically bashed
+321	lesbianism
+321	lap dance
+321	rape
+321	lesbian
+321	hotel
+321	stage
+321	ambition
+321	dance
+321	sex in a swimming pool
+321	breasts
+321	female hitchhiker
+321	champagne
+321	thong
+321	f word
+321	male rear nudity
+321	vaginal injury
+321	woman fights man
+321	hamburger
+321	french fries
+321	fingernails
+321	box office flop
+321	naive woman
+321	female full frontal nudity
+321	interracial relationship
+321	skinny dipping
+321	drugs
+321	motel
+321	casino
+321	las vegas nevada
+321	catfight
+321	strip club
+321	swimming pool
+321	revenge
+321	pole dancing
+321	motorcycle
+321	menstruation
+321	male nudity
+321	jail
+321	injury
+321	ice cube
+321	hospital
+321	hitchhiking
+321	hitchhiker
+321	falling down stairs
+321	ex prostitute
+321	dress
+321	costumer
+321	cocaine
+321	clothing store
+321	chimpanzee
+321	celebrity
+321	bar fight
+321	exotic dancer
+321	staircase
+321	gang rape
+321	dance lesson
+321	spit in the face
+321	erotica
+321	buxom
+321	1990s
+321	female protagonist
+321	reference to paula abdul
+321	one word title
+321	female removes her clothes
+321	sex scene
+321	vomiting
+321	female rear nudity
+321	slot machine
+321	bellhop
+321	bail
+321	sleaze
+321	chips
+321	switchblade
+322	nymphomania
+322	gender dysphoria
+322	female to male foot in crotch
+322	lesbian kiss
+322	sex in a swimming pool
+322	sex in shower
+322	multiple personality
+322	erotica
+322	color blindness
+322	patient
+322	therapy
+322	psychologist
+322	suicide
+322	hitchcockian
+322	jumping from a window
+322	erotic thriller
+322	male star appears nude
+322	voyeur
+322	voyeurism
+322	promiscuous woman
+322	multiple lovers
+322	sex in bed
+322	black panties
+322	white panties
+322	panties
+322	female removes her dress
+322	female removes her clothes
+322	mini dress
+322	red dress
+322	view under table
+322	woman in bathtub
+322	lust
+322	pubic hair
+322	female pubic hair
+322	female full frontal nudity
+322	female rear nudity
+322	no panties
+322	breasts
+322	scantily clad female
+322	cleavage
+322	car crash
+322	tattoo
+322	loft
+322	father son relationship
+322	painting
+322	welding
+322	shooting
+322	death of family member
+322	bleeding to death
+322	stabbing
+322	home security
+322	rattlesnake
+322	depression
+322	nail gun
+322	car chase
+322	grief
+322	adultery
+322	doctor patient relationship
+322	sex with patient
+322	violence
+322	new york city
+322	manhattan new york city
+322	male rear nudity
+322	male nudity
+322	mental illness
+322	serial killer
+322	male bare feet
+322	female bare feet
+322	chrysler building manhattan new york city
+322	male to female footsie playing
+322	female to male footsie playing
+322	footsie
+322	box office flop
+322	paranoia
+322	lesbian
+322	therapist
+322	murder investigation
+322	femme fatale
+322	tied to a bedpost
+322	leg spreading
+322	crotch shot
+322	footsie under the table
+322	lesbianism
+322	s&m
+322	female nudity
+322	brother sister relationship
+322	attempted suicide
+322	orgasm
+322	schizophrenia
+322	rough sex
+322	female frontal nudity
+322	falling from height
+322	obsessive compulsive disorder
+322	investigation
+322	murder
+322	psychopath
+322	behaviorist
+322	gender disguise
+322	neo noir
+322	insanity
+322	psychology
+322	psychoanalyst
+322	sex
+322	group therapy
+322	male frontal nudity
+322	surprise ending
+36	laser
+36	duck
+36	planet
+36	alien
+36	singer
+36	physicist
+36	outer space
+36	extraterrestrial
+36	sexual attraction
+36	upskirt
+36	girl in panties
+36	mini skirt
+36	alternate reality
+36	pay phone
+36	payphone
+36	quitting a job
+36	female bassist
+36	worst picture razzie winner
+36	female drummer
+36	female band
+36	car explosion
+36	female guitarist
+36	white panties
+36	superhero
+36	nubile woman
+36	cartoon on tv
+36	1980s
+36	exploding car
+36	pink panties
+36	concert
+36	based on comic book
+36	anthropomorphism
+36	anthropomorphic animal
+36	animal name in title
+36	panties
+36	b movie
+36	cult film
+36	misanthrope
+36	box office flop
+36	world domination
+36	rock music
+36	musician
+36	bird
+36	beer drinking
+36	alien creature
+36	indiana jones spoof
+36	talking animal
+36	stop motion
+36	wilhelm scream
+36	hot tub
+36	nuclear power plant
+36	bestiality
+36	marvel comics
+36	automobile
+36	massage parlor
+36	alien invasion
+36	condom
+36	character name in title
+37	love
+37	worst picture razzie winner
+37	campy
+37	directed by star
+37	actor director
+37	wealth
+37	twenty something
+37	trust fund
+37	song
+37	singing
+37	singer
+37	rock music
+37	rock 'n' roll
+37	riviera
+37	rich woman poor man
+37	rich girl
+37	piano
+37	pianist
+37	nice france
+37	newspaper
+37	musician
+37	mother daughter relationship
+37	mediterranean
+37	kiss
+37	henchman
+37	father daughter relationship
+37	birthday
+37	surrealism
+37	cult film
+37	interracial relationship
+37	music score composed by director
+37	dying young
+37	gigolo
+37	france
+37	high society
+41	critically bashed
+41	psychotronic film
+41	psychotronic
+41	when animals attack
+41	ex husband ex wife relationship
+41	box office flop
+41	cult film
+41	animal
+41	cia
+41	secret agent
+41	spy
+41	self surgery
+41	spying
+41	villainess
+41	restaurant
+41	killer animal
+41	wiener fight
+41	coca cola
+41	mansion
+41	product placement
+41	james bond spoof
+41	father daughter relationship
+41	ambiguous title
+41	character name in title
+43	shark
+43	boat
+43	sea
+43	banana boat
+43	christmas
+43	bahamas
+43	marine biologist
+43	shark attack
+43	island
+43	revenge
+43	caribbean
+43	shark feature
+43	giant shark
+43	human versus shark
+43	sharksploitation
+43	colon in title
+43	three word title
+43	1980s
+43	killer shark
+43	death of fiance
+43	death of uncle
+43	death of brother
+43	lifting male in air
+43	slow motion
+43	lifting female in air
+43	lifting someone into the air
+43	begins with a dream
+43	white meat dark meat joke
+43	jaws
+43	shower
+43	male nudity
+43	part of trilogy
+43	fourth part
+43	creature feature
+43	famous score
+43	sequel
+43	woman killed by a shark
+43	mother son relationship
+43	underwater
+43	aviation
+43	impalement
+43	shark hunter
+43	vengeance
+43	giant animal
+43	death of son
+43	based on novel
+43	character name in title
+46	skinny dipping
+46	outdoor sex
+46	bikini
+46	bartender
+46	cocktail
+46	cocktail bar
+46	jamaica
+46	money
+46	worst picture razzie winner
+46	hawaiian shirt
+46	nylon stockings
+46	manhattan new york city
+46	world trade center manhattan new york city
+46	new york city
+46	chrysler building manhattan new york city
+46	one word title
+46	cocktail shaker
+46	kicked in the butt
+46	new york skyline
+46	yacht
+46	suicide
+46	pregnancy
+46	poetry
+46	one night stand
+46	g string
+46	father daughter relationship
+46	boyfriend girlfriend relationship
+46	best friend
+46	bankrupt
+46	blockbuster
+46	bartending
+46	subway
+46	nightclub
+46	caribbean
+46	alcohol
+51	captain
+51	Relevant?  Yes  No
+51	planet
+51	vulcan
+51	half brother
+51	klingon
+51	shore leave
+51	23rd century
+51	campfire
+51	climbing
+51	yosemite national park
+51	cult film
+51	alien entity
+51	klingon warrior
+51	human vulcan man
+51	handheld communicator
+51	reference to god
+51	reference to the garden of eden
+51	starfleet admiral
+51	transporter room
+51	jailbreak
+51	starship brig
+51	brig
+51	escape attempt
+51	darkened room
+51	vulcan woman
+51	woman giving birth
+51	commandeered starship
+51	shuttlecraft
+51	speaking klingon
+51	constitution class starship
+51	starship captain
+51	vulcan man
+51	shuttle bay
+51	klingon woman
+51	english subtitles
+51	rescue mission
+51	klingon bird of prey
+51	u.s.s. enterprise ncc 1701 a
+51	hijacking
+51	romulan woman
+51	brother brother relationship
+51	space opera
+51	reference to row row row your boat
+51	singing around campfire
+51	six word title
+51	colon in title
+51	roman numbered sequel
+51	roman numeral in title
+51	romulan
+51	cloaked ship
+51	written and directed by cast member
+51	invisibility
+51	megalomaniac
+51	photon torpedoes
+51	phaser
+51	english subtitles in original
+51	self sacrifice
+51	space travel
+51	electrocution
+51	supernatural power
+51	mind control
+51	shootout
+51	gatling gun
+51	camping
+51	female bodybuilder
+51	family relationships
+51	third breast
+51	interracial relationship
+51	flashback
+51	telepath
+51	disguise
+51	desert
+51	box office flop
+51	bodiless entity
+51	directed by star
+51	sequel to cult favorite
+51	saga
+51	national park
+51	national forest
+51	lieutenant commander
+51	fifth part
+51	commander
+51	shuttle craft
+51	based on cult tv series
+51	admiral
+51	lieutenant
+51	exotic dancer
+51	doctor
+51	outer space
+51	dancer
+51	teleportation
+51	club
+51	sequel
+51	star trek
+51	warp speed
+51	stripper
+51	spacecraft
+51	spacecraft officer
+51	morse code
+51	based on tv series
+51	number in title
+56	detective
+56	murder
+56	music industry
+56	rock n roll
+56	groupie
+56	koala
+56	private detective
+56	unlikely hero
+56	overturning car
+56	car rollover
+56	radio
+56	walkie talkie
+56	coffin
+56	drive by shooting
+56	ambush
+56	sabotage
+56	booby trap
+56	fire
+56	profanity
+56	vulgarity
+56	condom
+56	rooftop
+56	scatological humor
+56	gross out humor
+56	money problems
+56	dancing
+56	milkshake
+56	bartender
+56	cigarette lighter
+56	handcuffs
+56	womanizer
+56	convertible
+56	damsel in distress
+56	tied to a chair
+56	interrogation
+56	torture
+56	montage
+56	farce
+56	beaten to death
+56	beating
+56	insanity
+56	sadism
+56	sadist
+56	psychopath
+56	tattoo
+56	red herring
+56	knocked out
+56	slapstick comedy
+56	crime scene
+56	showbiz
+56	record executive
+56	record company
+56	blood on shirt
+56	electronic music score
+56	computer disc
+56	hollywood walk of fame
+56	zip line
+56	singing
+56	concert
+56	singer
+56	rock singer
+56	eavesdropping
+56	betrayal
+56	double cross
+56	deception
+56	showdown
+56	blood splatter
+56	blood
+56	man kills a woman
+56	conspiracy
+56	cover up
+56	sadomasochism
+56	videotape
+56	sex tape
+56	flood
+56	sunglasses
+56	motorcycle
+56	raised middle finger
+56	hitchhiking
+56	subjective camera
+56	hit by a car
+56	sorority house
+56	fraternity
+56	sorority
+56	police officer
+56	policeman
+56	police detective
+56	character repeating someone else's dialogue
+56	dumb police
+56	police
+56	violence
+56	death
+56	body in a trunk
+56	slow motion scene
+56	orphan
+56	ring
+56	child swearing
+56	investigation
+56	revenge
+56	electrocution
+56	character's point of view camera shot
+56	surveillance
+56	radio station
+56	radio dj
+56	cockney accent
+56	limousine
+56	corpse
+56	stupid victim
+56	person on fire
+56	media coverage
+56	burned alive
+56	drunkenness
+56	mansion
+56	party
+56	erection
+56	penis joke
+56	dildo
+56	news report
+56	gay slur
+56	dutch angle
+56	attempted murder
+56	assassination attempt
+56	assassin
+56	thug
+56	henchman
+56	hitman
+56	silencer
+56	answering machine
+56	secretary
+56	karate
+56	judo
+56	woman hits a man
+56	woman punches a man
+56	woman kills a man
+56	woman fights a man
+56	faked death
+56	presumed dead
+56	bar
+56	reverse footage
+56	revelation
+56	evil man
+56	corruption
+56	sailboat
+56	money
+56	false accusation
+56	corrupt businessman
+56	evil businessman
+56	security guard
+56	nightclub
+56	yacht
+56	tour bus
+56	falling from height
+56	crashing through a window
+56	thrown through a window
+56	escape
+56	rescue
+56	oral sex
+56	hostage
+56	kidnapping
+56	1990s
+56	1980s
+56	b movie
+56	blow job
+56	cigar smoking
+56	cemetery
+56	cigarette smoking
+56	italian american
+56	beach house
+56	beach
+56	kung fu
+56	actor talks to audience
+56	microwave oven
+56	threatened with a knife
+56	knife
+56	machine gun
+56	shotgun
+56	desert eagle
+56	one man army
+56	hand grenade
+56	car bomb
+56	exploding car
+56	pistol
+56	explosion
+56	product placement
+56	sports car
+56	car accident
+56	car crash
+56	car stunt
+56	stealing a car
+56	car chase
+56	foot chase
+56	chase
+56	hand to hand combat
+56	mixed martial arts
+56	martial arts
+56	brawl
+56	fight
+56	fistfight
+56	caper
+56	punched in the chest
+56	punched in the face
+56	kicked in the stomach
+56	kicked in the face
+56	revolver
+56	shot in the chest
+56	shot in the forehead
+56	shot in the head
+56	disarming someone
+56	shootout
+56	voice over narration
+56	nonlinear timeline
+56	told in flashback
+56	neo noir
+56	mexican standoff
+56	absurdism
+56	wisecrack humor
+56	quick draw
+56	sleeve gun
+56	anti hero
+56	action hero
+56	music producer
+56	bomb
+56	cameo
+56	rap music
+56	rock band
+56	heavy metal
+56	boy
+56	reference to milli vanilli
+56	reference to guns 'n' roses
+56	sexual reference
+56	burned to death
+56	f word
+56	tough guy
+56	shot to death
+56	black comedy
+56	fall from height
+56	critically bashed
+56	box office flop
+56	held at gunpoint
+56	disco
+56	microphone picks up conversation
+56	evil plan exposed
+56	reference to michael jackson
+56	reference to axl rose
+56	reference to debbie gibson
+56	reference to bruce springsteen
+56	reference to madonna
+56	reference to armani
+56	exploding house
+56	bubble gum
+56	photograph
+56	funeral
+56	reference to rob lowe
+56	reference to mtv
+56	reference to jethro tull
+56	shock jock
+56	voodoo doll
+56	capitol records building
+56	reference to neil diamond
+56	street shootout
+56	spoof
+56	reference to liberace
+56	reference to clint eastwood
+56	reference to jimi hendrix
+56	rock 'n' roll
+56	hit in the crotch
+56	gunfight
+56	stunt
+56	los angeles california
+56	hired killer
+56	hearse
+56	glass coffin
+56	crude humor
+56	cult film
+56	breaking the fourth wall
+56	insult
+56	guitar
+56	rock music
+56	555 phone number
+56	death of friend
+56	independent film
+56	character name in title
+56	surprise ending
+57	ghost
+57	critically bashed
+57	reference to donald trump
+57	cult film
+57	business deal
+57	love
+57	animal in cast credits
+57	female full frontal nudity
+57	sleeping pills
+57	gangster
+57	elephant
+57	hit on the head
+57	angel
+57	wedding
+57	premeditated murder
+57	dancing
+57	celebrity cameo
+57	horse riding
+57	snow
+57	rat poison
+57	indoor swimming pool
+57	female protagonist
+57	possession
+57	gun
+57	board meeting
+57	beach
+57	island
+57	limbo
+57	billionaire
+57	young widow
+57	widow
+57	death of husband
+57	businessman
+57	able to hear the dead
+57	cuckold
+57	suicide
+57	independent film
+57	claim in title
+61	prison
+61	Relevant?  Yes  No
+61	burglar
+61	blackmail
+61	leonardo da vinci
+61	cat burglar
+61	world domination
+61	orchestral music score
+61	absurdism
+61	car chase
+61	husband wife relationship
+61	tied to a chair
+61	hotel
+61	gold
+61	interrogation
+61	torture
+61	auction
+61	rescue
+61	revolver
+61	mafia
+61	gangster
+61	new york city
+61	tollbooth
+61	machismo
+61	silencer
+61	pistol
+61	1990s
+61	cia agent
+61	timebomb
+61	anti hero
+61	critically bashed
+61	based on song
+61	screwball
+61	scheme
+61	voice over narration
+61	restaurant
+61	bar
+61	dog
+61	cult film
+61	brooklyn bridge
+61	box office flop
+61	horse
+61	dominatrix
+61	invention from da vinci plans
+61	scene based on painting
+61	handcuffs
+61	wisecrack humor
+61	waiter
+61	torn shirt
+61	tattoo
+61	sunglasses
+61	split lip
+61	spaghetti
+61	Relevant?  Yes  No
+61	sleeping on a couch
+61	slapstick comedy
+61	shot in the forehead
+61	security guard
+61	rome italy
+61	release from prison
+61	red dress
+61	priest
+61	presumed dead
+61	pope
+61	pegasus
+61	paralysis
+61	nun
+61	museum
+61	megalomaniac
+61	jumping from height
+61	inventor
+61	helicopter
+61	heist
+61	gurney
+61	golf bag
+61	gold bar
+61	flying machine
+61	fisticuffs
+61	electrocution
+61	eccentric
+61	double cross
+61	decapitation
+61	conspiracy
+61	confessional
+61	colosseum
+61	code name
+61	chicken
+61	castle
+61	butler
+61	blindfold
+61	aviation
+61	thief
+61	poetic justice
+61	faked death
+61	rooftop escape
+61	murder
+61	poison dart
+61	statue
+61	vatican
+61	alchemy
+61	drugged drink
+61	covered in melted gold
+61	ambulance
+61	caper
+61	video surveillance
+61	art auction
+61	cia
+61	theft
+61	exploding car
+61	character name in title
+66	spy
+66	secretary
+66	new york
+66	translator
+66	1940s
+66	germany
+66	law
+66	nazi
+66	black stockings
+66	female spy
+66	train
+66	bomb
+66	nudity
+66	double agent
+66	air raid
+66	flashback
+66	voice over narration
+66	world war two
+66	german american
+66	based on novel
+71	house
+71	finance
+71	gas stove
+71	teapot
+71	sexual innuendo in title
+71	office
+71	lawyer
+71	woman wearing a black dress
+71	fancy dress
+71	black dress
+71	written agreement
+71	contract
+71	paying for sex
+71	telephone call
+71	cell phone
+71	expensive gift
+71	hotel room
+71	high stakes
+71	rich man
+71	billionaire
+71	roulette
+71	gambling winnings
+71	diner
+71	pair of dice
+71	kissing in public
+71	slot machine
+71	craps
+71	usa
+71	caught stealing
+71	money problems
+71	shaving
+71	female sitting on a toilet
+71	implied cunnilingus
+71	implied fellatio
+71	sex on the kitchen floor
+71	sex on floor
+71	sex in kitchen
+71	sex scene
+71	box office hit
+71	erotic thriller
+71	unfaithfulness
+71	unfaithful wife
+71	infidelity
+71	female removes her clothes
+71	girl in panties
+71	scantily clad female
+71	cleavage
+71	1990s
+71	rolling in money
+71	male underwear
+71	cult film
+71	reference to john garfield
+71	sex trade
+71	drunkenness
+71	elvis
+71	female nudity
+71	cuckold
+71	gambler
+71	wager
+71	temptation
+71	teacher
+71	prostitution
+71	nudity
+71	job offer
+71	extramarital affair
+71	dysfunctional marriage
+71	confrontation
+71	restaurant
+71	real estate agent
+71	marriage
+71	love triangle
+71	jealousy
+71	husband wife relationship
+71	hippopotamus
+71	dog
+71	casino
+71	betrayal
+71	oral sex
+71	las vegas nevada
+71	blockbuster
+71	gambling
+71	sexuality
+71	morality
+71	true love
+71	based on novel
+71	architect
+71	yacht
+71	white panties
+71	panties
+71	elvis presley
+76	nymphomania
+76	gender dysphoria
+76	female to male foot in crotch
+76	lesbian kiss
+76	sex in a swimming pool
+76	sex in shower
+76	multiple personality
+76	erotica
+76	color blindness
+76	patient
+76	therapy
+76	psychologist
+76	suicide
+76	hitchcockian
+76	jumping from a window
+76	erotic thriller
+76	male star appears nude
+76	voyeur
+76	voyeurism
+76	promiscuous woman
+76	multiple lovers
+76	sex in bed
+76	black panties
+76	white panties
+76	panties
+76	female removes her dress
+76	female removes her clothes
+76	mini dress
+76	red dress
+76	view under table
+76	woman in bathtub
+76	lust
+76	pubic hair
+76	female pubic hair
+76	female full frontal nudity
+76	female rear nudity
+76	no panties
+76	breasts
+76	scantily clad female
+76	cleavage
+76	car crash
+76	tattoo
+76	loft
+76	father son relationship
+76	painting
+76	welding
+76	shooting
+76	death of family member
+76	bleeding to death
+76	stabbing
+76	home security
+76	rattlesnake
+76	depression
+76	nail gun
+76	car chase
+76	grief
+76	adultery
+76	doctor patient relationship
+76	sex with patient
+76	violence
+76	new york city
+76	manhattan new york city
+76	male rear nudity
+76	male nudity
+76	mental illness
+76	serial killer
+76	male bare feet
+76	female bare feet
+76	chrysler building manhattan new york city
+76	male to female footsie playing
+76	female to male footsie playing
+76	footsie
+76	box office flop
+76	paranoia
+76	lesbian
+76	therapist
+76	murder investigation
+76	femme fatale
+76	tied to a bedpost
+76	leg spreading
+76	crotch shot
+76	footsie under the table
+76	lesbianism
+76	s&m
+76	female nudity
+76	brother sister relationship
+76	attempted suicide
+76	orgasm
+76	schizophrenia
+76	rough sex
+76	female frontal nudity
+76	falling from height
+76	obsessive compulsive disorder
+76	investigation
+76	murder
+76	psychopath
+76	behaviorist
+76	gender disguise
+76	neo noir
+76	insanity
+76	psychology
+76	psychoanalyst
+76	sex
+76	group therapy
+76	male frontal nudity
+76	surprise ending
+81	stripper
+81	cult film
+81	striptease
+81	lap dancing
+81	showgirl
+81	critically bashed
+81	lesbianism
+81	lap dance
+81	rape
+81	lesbian
+81	hotel
+81	stage
+81	ambition
+81	dance
+81	sex in a swimming pool
+81	breasts
+81	female hitchhiker
+81	champagne
+81	thong
+81	f word
+81	male rear nudity
+81	vaginal injury
+81	woman fights man
+81	hamburger
+81	french fries
+81	fingernails
+81	box office flop
+81	naive woman
+81	female full frontal nudity
+81	interracial relationship
+81	skinny dipping
+81	drugs
+81	motel
+81	casino
+81	las vegas nevada
+81	catfight
+81	strip club
+81	swimming pool
+81	revenge
+81	pole dancing
+81	motorcycle
+81	menstruation
+81	male nudity
+81	jail
+81	injury
+81	ice cube
+81	hospital
+81	hitchhiking
+81	hitchhiker
+81	falling down stairs
+81	ex prostitute
+81	dress
+81	costumer
+81	cocaine
+81	clothing store
+81	chimpanzee
+81	celebrity
+81	bar fight
+81	exotic dancer
+81	staircase
+81	gang rape
+81	dance lesson
+81	spit in the face
+81	erotica
+81	buxom
+81	1990s
+81	female protagonist
+81	reference to paula abdul
+81	one word title
+81	female removes her clothes
+81	sex scene
+81	vomiting
+81	female rear nudity
+81	slot machine
+81	bellhop
+81	bail
+81	sleaze
+81	chips
+81	switchblade
+86	stripper
+86	breasts
+86	congressman
+86	bouncer
+86	private dancer
+86	family values
+86	christian fundamentalism
+86	christian
+86	stripping
+86	pole dancing
+86	bra removing
+86	female nudity
+86	strip club
+86	exotic dancer
+86	cult film
+86	striptease
+86	custody
+86	thief
+86	disguise
+86	single mother
+86	female frontal nudity
+86	555 phone number
+86	looking at one's self in a mirror
+86	reference to george bush
+86	reference to barbara bush
+86	reference to michael jordan
+86	hotel
+86	offscreen killing
+86	coroner
+86	politician
+86	fundraiser
+86	reference to winston churchill
+86	flashback
+86	disarming someone
+86	slow motion scene
+86	pole dancer
+86	heart attack
+86	italian american
+86	eccentric
+86	tape recorder
+86	police officer
+86	death
+86	desperation
+86	corrupt official
+86	product placement
+86	infatuation
+86	controversy
+86	con artist
+86	sugar
+86	beating
+86	fan
+86	motel
+86	brother sister relationship
+86	sunglasses
+86	employee employee relationship
+86	trailer trash
+86	redneck
+86	employer employee relationship
+86	marriage proposal
+86	sabotage
+86	yogurt
+86	threatened with a knife
+86	deception
+86	wearing a sound wire
+86	cockroach
+86	factory
+86	woman in a towel
+86	abandoned house
+86	van
+86	chauffeur
+86	knocked out
+86	teleprompter
+86	press conference
+86	southern accent
+86	trailer home
+86	beach
+86	walkie talkie
+86	sugar cane
+86	limousine
+86	hit on the head
+86	cigar smoking
+86	cigarette smoking
+86	dressing room
+86	handcuffs
+86	arrest
+86	photograph
+86	f word
+86	drunkenness
+86	letter
+86	cover up
+86	conspiracy
+86	police detective
+86	lake
+86	detective
+86	black comedy
+86	neo noir
+86	criminal
+86	informant
+86	hospital
+86	dog
+86	card game
+86	wheelchair
+86	farce
+86	1990s
+86	bodyguard
+86	secret service agent
+86	pay phone
+86	corpse
+86	power drill
+86	revolver
+86	pistol
+86	mafia boss
+86	mob boss
+86	mafia
+86	crime boss
+86	organized crime
+86	gangster
+86	female rear nudity
+86	bare butt
+86	single parent
+86	critically bashed
+86	father daughter relationship
+86	judge
+86	court
+86	miami florida
+86	florida
+86	video store
+86	cartoon on tv
+86	signature
+86	held at gunpoint
+86	fainting
+86	axe
+86	rearview mirror
+86	gun
+86	golf club
+86	teddy bear
+86	phone book
+86	dead body
+86	tic tacs
+86	morgue
+86	pet snake
+86	red carpet
+86	dolphin
+86	aquarium
+86	embarrassment
+86	knife held to throat
+86	broken arm
+86	knife
+86	heavy rain
+86	sweat
+86	pet monkey
+86	monkey
+86	vaseline
+86	conservative
+86	fish
+86	dead fish
+86	candy land
+86	board game
+86	boat
+86	laundromat
+86	binoculars
+86	seersucker
+86	kidnapping
+86	dancing
+86	dancing alone
+86	white trash
+86	yarmulke
+86	envelope
+86	thong
+86	topless dancing
+86	loss of job
+86	fetish
+86	ex husband ex wife relationship
+86	black panties
+86	black bra
+86	black bra and panties
+86	box office flop
+86	real life mother and daughter playing mother and daughter
+86	fake breasts
+86	yacht
+86	satire
+86	murder
+86	child custody
+86	snake
+86	blackmail
+86	divorce
+86	buxom
+86	mother daughter relationship
+86	based on novel
+86	surprise ending
+86	female attempts to seduce male
+86	boxer shorts
+86	male underwear
+86	hairy chest
+86	bare chested male
+86	female protagonist
+91	drifter
+91	hope
+91	escape
+91	postman
+91	usa
+91	revolt
+91	letter
+91	leader
+91	future
+91	male nudity
+91	crowd
+91	beard
+91	playboy magazine
+91	alternate history
+91	mauled by a lion
+91	tackled off a horse
+91	reference to robert e. lee
+91	lying
+91	reference to ulysses s. grant
+91	reference to erwin rommel
+91	white flag
+91	reference to george s. patton
+91	letter read aloud
+91	shot while trying to escape
+91	shot in the stomach
+91	bullet wound
+91	rebel leader
+91	human branding
+91	number 8
+91	yelling for help
+91	talking to a horse
+91	two on a horse
+91	reference to the minnesota vikings
+91	horseback riding
+91	character says go to hell
+91	saved at the last second
+91	swearing an oath
+91	burning a flag
+91	american flag
+91	burning an american flag
+91	assuming identity of a dead person
+91	bronze statue
+91	happy ending
+91	feudal society
+91	two word title
+91	ruthlessness
+91	bearded man
+91	laws
+91	asking someone for a dance
+91	conversation while dancing
+91	love interest
+91	sex scene
+91	log cabin
+91	leadership
+91	unarmed man killed
+91	murder of an unarmed man
+91	stabbed to death
+91	falling into river
+91	falling from height
+91	falling off a bridge
+91	shakespearean quotation
+91	quotation
+91	year 2043
+91	2040s
+91	year 2013
+91	21st century
+91	starving
+91	food shortage
+91	reference to ringo starr
+91	reference to the beatles
+91	the beatles song
+91	cult film
+91	siege
+91	cannon
+91	reference to hannibal
+91	film within a film
+91	pistol
+91	cavalry
+91	cavalry charge
+91	training
+91	disarming someone
+91	explosion
+91	m 16
+91	man with no name
+91	pump action shotgun
+91	shotgun
+91	revolver
+91	wrestling
+91	martial arts
+91	chase
+91	f word
+91	dancing
+91	ambush
+91	showdown
+91	peasant army
+91	wisecrack humor
+91	sheriff
+91	battlefield
+91	stabbed with a sword
+91	sword
+91	fictional war
+91	future war
+91	dictator
+91	warrior
+91	fighting
+91	duel
+91	knife fight
+91	knife
+91	tough guy
+91	tough girl
+91	reluctant hero
+91	action heroine
+91	heroine
+91	action hero
+91	hero
+91	nuclear holocaust aftermath
+91	directed by star
+91	snow
+91	rain
+91	pregnancy
+91	flag burning
+91	fight
+91	binoculars
+91	baby
+91	lion
+91	2010s
+91	reference to william shakespeare
+91	piano
+91	horse
+91	horse chase
+91	oregon
+91	firing squad
+91	murder
+91	anomie
+91	violence
+91	post apocalypse
+91	post office
+91	racial slur
+91	anarchy
+91	militia group
+91	based on novel
+91	title spoken by character
+91	character name in title
+96	box office flop
+96	director
+96	hollywood
+96	critically bashed
+96	mockumentary
+96	film producer
+96	film industry
+96	film director
+96	celebrity
+96	cameo
+96	hollywood california
+96	fake documentary
+96	urination
+96	filmmaking
+96	amazing grace the hymn
+96	lasersight
+96	film within a film
+96	repetition in title
+96	place name in title
+96	satire
+96	character name in title

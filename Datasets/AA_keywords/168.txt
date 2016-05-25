@@ -1,0 +1,168 @@
+politician
+Is this relevant?
+governor
+Is this relevant?
+newspaper reporter
+Is this relevant?
+hick
+Is this relevant?
+rise and fall
+Is this relevant?
+newspaper
+Is this relevant?
+reporter
+Is this relevant?
+speech
+Is this relevant?
+assassination plot
+Is this relevant?
+political drama
+Is this relevant?
+campaign
+Is this relevant?
+death
+Is this relevant?
+american south
+Is this relevant?
+rural setting
+Is this relevant?
+man slaps a woman
+Is this relevant?
+woman slaps a man
+Is this relevant?
+election campaign
+Is this relevant?
+political candidate
+Is this relevant?
+campaigning
+Is this relevant?
+american literature
+Is this relevant?
+politics
+Is this relevant?
+reference to judas iscariot
+Is this relevant?
+reference to abraham lincoln
+Is this relevant?
+punctuation in title
+Is this relevant?
+photograph
+Is this relevant?
+jealous woman
+Is this relevant?
+courthouse
+Is this relevant?
+adultery
+Is this relevant?
+adulteress
+Is this relevant?
+adulterer
+Is this relevant?
+roman a clef
+Is this relevant?
+physician
+Is this relevant?
+paralysis
+Is this relevant?
+niece
+Is this relevant?
+nephew
+Is this relevant?
+murder
+Is this relevant?
+mistress
+Is this relevant?
+marriage
+Is this relevant?
+judge
+Is this relevant?
+infidelity
+Is this relevant?
+football
+Is this relevant?
+father son relationship
+Is this relevant?
+brother sister relationship
+Is this relevant?
+automobile accident
+Is this relevant?
+political satire
+Is this relevant?
+great depression
+Is this relevant?
+pool hall
+Is this relevant?
+rise to power
+Is this relevant?
+rags to riches
+Is this relevant?
+political corruption
+Is this relevant?
+megalomania
+Is this relevant?
+ego
+Is this relevant?
+confrontation
+Is this relevant?
+brutality
+Is this relevant?
+ambition
+Is this relevant?
+american football
+Is this relevant?
+extramarital affair
+Is this relevant?
+stepfather
+Is this relevant?
+1930s
+Is this relevant?
+assassination
+Is this relevant?
+car accident
+Is this relevant?
+state legislature
+Is this relevant?
+extortion
+Is this relevant?
+pulitzer prize source
+Is this relevant?
+political campaign
+Is this relevant?
+locker room
+Is this relevant?
+drunk driving
+Is this relevant?
+suicide
+Is this relevant?
+corruption
+Is this relevant?
+southern u.s.
+Is this relevant?
+blackmail
+Is this relevant?
+fire escape
+Is this relevant?
+alcoholic
+Is this relevant?
+building collapse
+Is this relevant?
+broken engagement
+Is this relevant?
+face slap
+Is this relevant?
+1920s
+Is this relevant?
+county fair
+Is this relevant?
+drunkenness
+Is this relevant?
+lawyer
+Is this relevant?
+newsreel
+Is this relevant?
+cult film
+Is this relevant?
+dinner party
+Is this relevant?
+based on novel
+Is this relevant?

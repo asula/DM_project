@@ -1,0 +1,566 @@
+detective
+Is this relevant?
+murder
+Is this relevant?
+music industry
+Is this relevant?
+rock n roll
+Is this relevant?
+groupie
+Is this relevant?
+koala
+Is this relevant?
+private detective
+Is this relevant?
+unlikely hero
+Is this relevant?
+overturning car
+Is this relevant?
+car rollover
+Is this relevant?
+radio
+Is this relevant?
+walkie talkie
+Is this relevant?
+coffin
+Is this relevant?
+drive by shooting
+Is this relevant?
+ambush
+Is this relevant?
+sabotage
+Is this relevant?
+booby trap
+Is this relevant?
+fire
+Is this relevant?
+profanity
+Is this relevant?
+vulgarity
+Is this relevant?
+condom
+Is this relevant?
+rooftop
+Is this relevant?
+scatological humor
+Is this relevant?
+gross out humor
+Is this relevant?
+money problems
+Is this relevant?
+dancing
+Is this relevant?
+milkshake
+Is this relevant?
+bartender
+Is this relevant?
+cigarette lighter
+Is this relevant?
+handcuffs
+Is this relevant?
+womanizer
+Is this relevant?
+convertible
+Is this relevant?
+damsel in distress
+Is this relevant?
+tied to a chair
+Is this relevant?
+interrogation
+Is this relevant?
+torture
+Is this relevant?
+montage
+Is this relevant?
+farce
+Is this relevant?
+beaten to death
+Is this relevant?
+beating
+Is this relevant?
+insanity
+Is this relevant?
+sadism
+Is this relevant?
+sadist
+Is this relevant?
+psychopath
+Is this relevant?
+tattoo
+Is this relevant?
+red herring
+Is this relevant?
+knocked out
+Is this relevant?
+slapstick comedy
+Is this relevant?
+crime scene
+Is this relevant?
+showbiz
+Is this relevant?
+record executive
+Is this relevant?
+record company
+Is this relevant?
+blood on shirt
+Is this relevant?
+electronic music score
+Is this relevant?
+computer disc
+Is this relevant?
+hollywood walk of fame
+Is this relevant?
+zip line
+Is this relevant?
+singing
+Is this relevant?
+concert
+Is this relevant?
+singer
+Is this relevant?
+rock singer
+Is this relevant?
+eavesdropping
+Is this relevant?
+betrayal
+Is this relevant?
+double cross
+Is this relevant?
+deception
+Is this relevant?
+showdown
+Is this relevant?
+blood splatter
+Is this relevant?
+blood
+Is this relevant?
+man kills a woman
+Is this relevant?
+conspiracy
+Is this relevant?
+cover up
+Is this relevant?
+sadomasochism
+Is this relevant?
+videotape
+Is this relevant?
+sex tape
+Is this relevant?
+flood
+Is this relevant?
+sunglasses
+Is this relevant?
+motorcycle
+Is this relevant?
+raised middle finger
+Is this relevant?
+hitchhiking
+Is this relevant?
+subjective camera
+Is this relevant?
+hit by a car
+Is this relevant?
+sorority house
+Is this relevant?
+fraternity
+Is this relevant?
+sorority
+Is this relevant?
+police officer
+Is this relevant?
+policeman
+Is this relevant?
+police detective
+Is this relevant?
+character repeating someone else's dialogue
+Is this relevant?
+dumb police
+Is this relevant?
+police
+Is this relevant?
+violence
+Is this relevant?
+death
+Is this relevant?
+body in a trunk
+Is this relevant?
+slow motion scene
+Is this relevant?
+orphan
+Is this relevant?
+ring
+Is this relevant?
+child swearing
+Is this relevant?
+investigation
+Is this relevant?
+revenge
+Is this relevant?
+electrocution
+Is this relevant?
+character's point of view camera shot
+Is this relevant?
+surveillance
+Is this relevant?
+radio station
+Is this relevant?
+radio dj
+Is this relevant?
+cockney accent
+Is this relevant?
+limousine
+Is this relevant?
+corpse
+Is this relevant?
+stupid victim
+Is this relevant?
+person on fire
+Is this relevant?
+media coverage
+Is this relevant?
+burned alive
+Is this relevant?
+drunkenness
+Is this relevant?
+mansion
+Is this relevant?
+party
+Is this relevant?
+erection
+Is this relevant?
+penis joke
+Is this relevant?
+dildo
+Is this relevant?
+news report
+Is this relevant?
+gay slur
+Is this relevant?
+dutch angle
+Is this relevant?
+attempted murder
+Is this relevant?
+assassination attempt
+Is this relevant?
+assassin
+Is this relevant?
+thug
+Is this relevant?
+henchman
+Is this relevant?
+hitman
+Is this relevant?
+silencer
+Is this relevant?
+answering machine
+Is this relevant?
+secretary
+Is this relevant?
+karate
+Is this relevant?
+judo
+Is this relevant?
+woman hits a man
+Is this relevant?
+woman punches a man
+Is this relevant?
+woman kills a man
+Is this relevant?
+woman fights a man
+Is this relevant?
+faked death
+Is this relevant?
+presumed dead
+Is this relevant?
+bar
+Is this relevant?
+reverse footage
+Is this relevant?
+revelation
+Is this relevant?
+evil man
+Is this relevant?
+corruption
+Is this relevant?
+sailboat
+Is this relevant?
+money
+Is this relevant?
+false accusation
+Is this relevant?
+corrupt businessman
+Is this relevant?
+evil businessman
+Is this relevant?
+security guard
+Is this relevant?
+nightclub
+Is this relevant?
+yacht
+Is this relevant?
+tour bus
+Is this relevant?
+falling from height
+Is this relevant?
+crashing through a window
+Is this relevant?
+thrown through a window
+Is this relevant?
+escape
+Is this relevant?
+rescue
+Is this relevant?
+oral sex
+Is this relevant?
+hostage
+Is this relevant?
+kidnapping
+Is this relevant?
+1990s
+Is this relevant?
+1980s
+Is this relevant?
+b movie
+Is this relevant?
+blow job
+Is this relevant?
+cigar smoking
+Is this relevant?
+cemetery
+Is this relevant?
+cigarette smoking
+Is this relevant?
+italian american
+Is this relevant?
+beach house
+Is this relevant?
+beach
+Is this relevant?
+kung fu
+Is this relevant?
+actor talks to audience
+Is this relevant?
+microwave oven
+Is this relevant?
+threatened with a knife
+Is this relevant?
+knife
+Is this relevant?
+machine gun
+Is this relevant?
+shotgun
+Is this relevant?
+desert eagle
+Is this relevant?
+one man army
+Is this relevant?
+hand grenade
+Is this relevant?
+car bomb
+Is this relevant?
+exploding car
+Is this relevant?
+pistol
+Is this relevant?
+explosion
+Is this relevant?
+product placement
+Is this relevant?
+sports car
+Is this relevant?
+car accident
+Is this relevant?
+car crash
+Is this relevant?
+car stunt
+Is this relevant?
+stealing a car
+Is this relevant?
+car chase
+Is this relevant?
+foot chase
+Is this relevant?
+chase
+Is this relevant?
+hand to hand combat
+Is this relevant?
+mixed martial arts
+Is this relevant?
+martial arts
+Is this relevant?
+brawl
+Is this relevant?
+fight
+Is this relevant?
+fistfight
+Is this relevant?
+caper
+Is this relevant?
+punched in the chest
+Is this relevant?
+punched in the face
+Is this relevant?
+kicked in the stomach
+Is this relevant?
+kicked in the face
+Is this relevant?
+revolver
+Is this relevant?
+shot in the chest
+Is this relevant?
+shot in the forehead
+Is this relevant?
+shot in the head
+Is this relevant?
+disarming someone
+Is this relevant?
+shootout
+Is this relevant?
+voice over narration
+Is this relevant?
+nonlinear timeline
+Is this relevant?
+told in flashback
+Is this relevant?
+neo noir
+Is this relevant?
+mexican standoff
+Is this relevant?
+absurdism
+Is this relevant?
+wisecrack humor
+Is this relevant?
+quick draw
+Is this relevant?
+sleeve gun
+Is this relevant?
+anti hero
+Is this relevant?
+action hero
+Is this relevant?
+music producer
+Is this relevant?
+bomb
+Is this relevant?
+cameo
+Is this relevant?
+rap music
+Is this relevant?
+rock band
+Is this relevant?
+heavy metal
+Is this relevant?
+boy
+Is this relevant?
+reference to milli vanilli
+Is this relevant?
+reference to guns 'n' roses
+Is this relevant?
+sexual reference
+Is this relevant?
+burned to death
+Is this relevant?
+f word
+Is this relevant?
+tough guy
+Is this relevant?
+shot to death
+Is this relevant?
+black comedy
+Is this relevant?
+fall from height
+Is this relevant?
+critically bashed
+Is this relevant?
+box office flop
+Is this relevant?
+held at gunpoint
+Is this relevant?
+disco
+Is this relevant?
+microphone picks up conversation
+Is this relevant?
+evil plan exposed
+Is this relevant?
+reference to michael jackson
+Is this relevant?
+reference to axl rose
+Is this relevant?
+reference to debbie gibson
+Is this relevant?
+reference to bruce springsteen
+Is this relevant?
+reference to madonna
+Is this relevant?
+reference to armani
+Is this relevant?
+exploding house
+Is this relevant?
+bubble gum
+Is this relevant?
+photograph
+Is this relevant?
+funeral
+Is this relevant?
+reference to rob lowe
+Is this relevant?
+reference to mtv
+Is this relevant?
+reference to jethro tull
+Is this relevant?
+shock jock
+Is this relevant?
+voodoo doll
+Is this relevant?
+capitol records building
+Is this relevant?
+reference to neil diamond
+Is this relevant?
+street shootout
+Is this relevant?
+spoof
+Is this relevant?
+reference to liberace
+Is this relevant?
+reference to clint eastwood
+Is this relevant?
+reference to jimi hendrix
+Is this relevant?
+rock 'n' roll
+Is this relevant?
+hit in the crotch
+Is this relevant?
+gunfight
+Is this relevant?
+stunt
+Is this relevant?
+los angeles california
+Is this relevant?
+hired killer
+Is this relevant?
+hearse
+Is this relevant?
+glass coffin
+Is this relevant?
+crude humor
+Is this relevant?
+cult film
+Is this relevant?
+breaking the fourth wall
+Is this relevant?
+insult
+Is this relevant?
+guitar
+Is this relevant?
+rock music
+Is this relevant?
+555 phone number
+Is this relevant?
+death of friend
+Is this relevant?
+independent film
+Is this relevant?
+character name in title
+Is this relevant?
+surprise ending
+Is this relevant?

@@ -1,0 +1,378 @@
+bus
+Is this relevant?
+love
+Is this relevant?
+reporter
+Is this relevant?
+money
+Is this relevant?
+detective
+Is this relevant?
+travel
+Is this relevant?
+heiress
+Is this relevant?
+reward
+Is this relevant?
+thief
+Is this relevant?
+running away
+Is this relevant?
+police
+Is this relevant?
+new york city
+Is this relevant?
+marriage
+Is this relevant?
+newspaper
+Is this relevant?
+spoiled brat
+Is this relevant?
+penknife
+Is this relevant?
+box office hit
+Is this relevant?
+veil
+Is this relevant?
+road movie
+Is this relevant?
+1930s
+Is this relevant?
+character appears in newspaper
+Is this relevant?
+writer
+Is this relevant?
+whistling
+Is this relevant?
+wedding dress
+Is this relevant?
+waiting in line
+Is this relevant?
+wading across a river
+Is this relevant?
+undressing
+Is this relevant?
+u.s. sailor
+Is this relevant?
+typewriter
+Is this relevant?
+tuxedo
+Is this relevant?
+trenchcoat
+Is this relevant?
+toothbrush
+Is this relevant?
+tonsils
+Is this relevant?
+thumb
+Is this relevant?
+thumbing nose
+Is this relevant?
+telephone call
+Is this relevant?
+telegraph operator
+Is this relevant?
+telegram
+Is this relevant?
+tears
+Is this relevant?
+teaching to hitchhike
+Is this relevant?
+suitcase
+Is this relevant?
+sticking out one's tongue
+Is this relevant?
+stealing a car
+Is this relevant?
+song
+Is this relevant?
+snoring
+Is this relevant?
+slip the undergarment
+Is this relevant?
+sleeping
+Is this relevant?
+sleeping outside
+Is this relevant?
+sitting on a fence
+Is this relevant?
+singing quartet
+Is this relevant?
+singer
+Is this relevant?
+sing along
+Is this relevant?
+search
+Is this relevant?
+runaway
+Is this relevant?
+remarriage
+Is this relevant?
+reference to the big bad wolf
+Is this relevant?
+reference to santa claus
+Is this relevant?
+reference to gandhi
+Is this relevant?
+rain
+Is this relevant?
+rainstorm
+Is this relevant?
+railroad crossing
+Is this relevant?
+pretending to have a gun in one's pocket
+Is this relevant?
+pretending to cry
+Is this relevant?
+policeman
+Is this relevant?
+police escort
+Is this relevant?
+pipe smoking
+Is this relevant?
+photographer
+Is this relevant?
+phone booth
+Is this relevant?
+pay phone
+Is this relevant?
+pajamas
+Is this relevant?
+pacific island
+Is this relevant?
+overheated car
+Is this relevant?
+on the road
+Is this relevant?
+newspaper office
+Is this relevant?
+newspaper headline
+Is this relevant?
+newspaper article
+Is this relevant?
+motorcycle
+Is this relevant?
+motorcycle cop
+Is this relevant?
+mother son relationship
+Is this relevant?
+motel manager
+Is this relevant?
+montage
+Is this relevant?
+miami florida
+Is this relevant?
+marriage annulment
+Is this relevant?
+maid
+Is this relevant?
+limping
+Is this relevant?
+lifting skirt
+Is this relevant?
+letter
+Is this relevant?
+kiss
+Is this relevant?
+jacksonville florida
+Is this relevant?
+intercom
+Is this relevant?
+husband wife relationship
+Is this relevant?
+honking a car horn
+Is this relevant?
+honeymoon
+Is this relevant?
+hobo
+Is this relevant?
+hamburger stand
+Is this relevant?
+guitar
+Is this relevant?
+girl
+Is this relevant?
+gas station
+Is this relevant?
+gas station attendant
+Is this relevant?
+food
+Is this relevant?
+flat tire
+Is this relevant?
+flashlight
+Is this relevant?
+filling station
+Is this relevant?
+fiddle
+Is this relevant?
+fence
+Is this relevant?
+fear
+Is this relevant?
+fake kidnapping
+Is this relevant?
+eye wound
+Is this relevant?
+egg
+Is this relevant?
+editor
+Is this relevant?
+eating
+Is this relevant?
+drunkenness
+Is this relevant?
+drink
+Is this relevant?
+drinking
+Is this relevant?
+crying
+Is this relevant?
+crossing guard
+Is this relevant?
+coffee
+Is this relevant?
+cigarette smoking
+Is this relevant?
+cigar smoking
+Is this relevant?
+carried over someone's shoulder
+Is this relevant?
+car theft
+Is this relevant?
+car brakes
+Is this relevant?
+camera
+Is this relevant?
+cafe
+Is this relevant?
+cabin
+Is this relevant?
+businessman
+Is this relevant?
+bus station
+Is this relevant?
+bus driver
+Is this relevant?
+bridge washout
+Is this relevant?
+breakfast
+Is this relevant?
+boy
+Is this relevant?
+blowing a kiss
+Is this relevant?
+bed
+Is this relevant?
+bathrobe
+Is this relevant?
+bare chested male
+Is this relevant?
+bank check
+Is this relevant?
+auto camp
+Is this relevant?
+apology
+Is this relevant?
+airplane
+Is this relevant?
+male slaps female
+Is this relevant?
+class differences
+Is this relevant?
+missing person
+Is this relevant?
+crying on a bed
+Is this relevant?
+claim in title
+Is this relevant?
+runaway bride
+Is this relevant?
+wrong side of the tracks
+Is this relevant?
+bus ride
+Is this relevant?
+bus accident
+Is this relevant?
+bus trip
+Is this relevant?
+doughnut
+Is this relevant?
+train
+Is this relevant?
+swimming
+Is this relevant?
+shower
+Is this relevant?
+rope
+Is this relevant?
+river
+Is this relevant?
+piggy back ride
+Is this relevant?
+leg
+Is this relevant?
+hunger
+Is this relevant?
+gasoline
+Is this relevant?
+film camera
+Is this relevant?
+fainting
+Is this relevant?
+face slap
+Is this relevant?
+carrot
+Is this relevant?
+budget
+Is this relevant?
+box of chocolates
+Is this relevant?
+blanket
+Is this relevant?
+canceled wedding
+Is this relevant?
+blockbuster
+Is this relevant?
+campground
+Is this relevant?
+trumpet
+Is this relevant?
+haystack
+Is this relevant?
+wedding
+Is this relevant?
+curtain
+Is this relevant?
+autogyro
+Is this relevant?
+singing
+Is this relevant?
+runaway heiress
+Is this relevant?
+journalism
+Is this relevant?
+theft
+Is this relevant?
+rich snob
+Is this relevant?
+hitchhiking
+Is this relevant?
+number in title
+Is this relevant?
+yacht
+0 of 1 found this relevant
+aviator
+0 of 1 found this relevant
+diving
+0 of 1 found this relevant
+walls of jericho
+0 of 1 found this relevant
+motel
+0 of 1 found this relevant
+wedding veil
+0 of 1 found this relevant
+bridal veil
+0 of 1 found this relevant
+reference to edmond hoyle
+0 of 1 found this relevant
